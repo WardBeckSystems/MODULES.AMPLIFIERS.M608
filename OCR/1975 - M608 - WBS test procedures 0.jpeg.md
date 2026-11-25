@@ -26,7 +26,7 @@ Distribution Amplifier
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M608/PHOTOS/1975 - M608 - WBS test procedures 0.jpeg",
+ "file": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - WBS test procedures 0.jpeg",
  "sha256": "650429f399f00ed8982371d251186a4e71447cc51697848fb2bc92d993eed41b",
  "kind": "module",
  "models": [
