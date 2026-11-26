@@ -21,7 +21,7 @@ Wiki page: [M608](../../../../PAGES/M608.md)
 - **Dots (junctions):** 1
 - **Words (OCR):** 80 in 62 lines: HF · LF · Off Set OfF · set · 2n3569 · Riz SX · 323 5ox · R4i Sok · +-c322/25 · ~R+54*8 · 1377 ~ci3tp7 R44 22k · AM7
 
-Every curve, box, word and wire group: [1975 - M608 - 8-116-06-001 - COMPONENT SIDE OFF SET OFF SET (traced).json](../SCHEMATICS/1975%20-%20M608%20-%208-116-06-001%20-%20COMPONENT%20SIDE%20OFF%20SET%20OFF%20SET%20(traced).json) (the CAD file: `1975 - M608 - 8-116-06-001 - COMPONENT SIDE OFF SET OFF SET (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - 8-116-06-001 - COMPONENT SIDE OFF SET OFF SET (traced).json](../SCHEMATICS/1975%20-%20M608%20-%208-116-06-001%20-%20COMPONENT%20SIDE%20OFF%20SET%20OFF%20SET%20%28traced%29.json) (the CAD file: `1975 - M608 - 8-116-06-001 - COMPONENT SIDE OFF SET OFF SET (traced).dxf`).
 
 ## Full text
 

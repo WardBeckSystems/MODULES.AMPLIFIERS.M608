@@ -23,7 +23,7 @@ Wiki page: [M608](../../../../PAGES/M608.md)
 - **Words (OCR):** 53 in 45 lines: MULTIPLE UNT_WIRIG · WITHIN A MOUNTWG FBAAE · 1PA1 OUTPUTE · P2-2 · (1 CF 2) · INFLT 1 · F2-16 A1 P1-7 · F2- · F1-e · NC · F2-1 · F2-3
 - **Wiring (first pass):** 57 connected wire groups from 528 runs, 1 dotted junctions; labelled ends: 694 mm → A2, A3, A4, P1-7; 398 mm → A3, A4, As, P2-7; 372 mm → A3, A4, As, P1-7; 349 mm → FAS OUTFUTS, A3; 331 mm → A2
 
-Every curve, box, word and wire group: [1975 - M608 - 608-02-003 - STATION TECHNICAL GROUND INSULATED GROUND BAR (traced).json](../SCHEMATICS/1975%20-%20M608%20-%20608-02-003%20-%20STATION%20TECHNICAL%20GROUND%20INSULATED%20GROUND%20BAR%20(traced).json) (the CAD file: `1975 - M608 - 608-02-003 - STATION TECHNICAL GROUND INSULATED GROUND BAR (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - 608-02-003 - STATION TECHNICAL GROUND INSULATED GROUND BAR (traced).json](../SCHEMATICS/1975%20-%20M608%20-%20608-02-003%20-%20STATION%20TECHNICAL%20GROUND%20INSULATED%20GROUND%20BAR%20%28traced%29.json) (the CAD file: `1975 - M608 - 608-02-003 - STATION TECHNICAL GROUND INSULATED GROUND BAR (traced).dxf`).
 
 ## Full text
 

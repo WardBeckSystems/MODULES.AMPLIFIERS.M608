@@ -20,7 +20,7 @@ Wiki page: [M608](../../../../PAGES/M608.md)
 - **Words (OCR):** 21 in 20 lines: 7204 · T201 · T202 · R2o1 · F201 · APP · Iissue DATE · REVISION · WARD-BECK SYSTEMS · WBS · M608 · ENG: Mav 6/8
 - **Title block:** (193, 2)–(336, 76) mm: APP · Iissue DATE · REVISION · WARD-BECK SYSTEMS · WBS · M608 · ENG: Mav 6/8 · AUDIO · DISTRIBUTION AMPLIFIER · COMPONENT · LAYOUT · App: · ScALE · ISSUE · 608-06-002
 
-Every curve, box, word and wire group: [1975 - M608 - 608-06-002 - AUDIO DISTRIBUTION AMPLIFIER (traced).json](../SCHEMATICS/1975%20-%20M608%20-%20608-06-002%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20(traced).json) (the CAD file: `1975 - M608 - 608-06-002 - AUDIO DISTRIBUTION AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - 608-06-002 - AUDIO DISTRIBUTION AMPLIFIER (traced).json](../SCHEMATICS/1975%20-%20M608%20-%20608-06-002%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1975 - M608 - 608-06-002 - AUDIO DISTRIBUTION AMPLIFIER (traced).dxf`).
 
 ## Full text
 

@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (283, 10)–(432, 78) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · M6o8 · M6o8A · ENG. MeW 1/8 AUDIO   DISTRIBUTION AMPLIFIER · CKD: · SYSTEM · WIRING SCHEMAIIC · APP · SCALE · 608-02-003 · ISSUE
 - **Wiring (first pass):** 35 connected wire groups from 449 runs, 2 dotted junctions; labelled ends: 534 mm → IP1-7, P1-1S, PZ-1, P2; 496 mm → TERMINAL; 450 mm → IP1-7, P1-1S, PZ-1, P2; 320 mm → A5, Pt-Z, P1-16, P2-1; 166 mm → P2
 
-Every curve, box, word and wire group: [19xx - M608 - DOC - 608-02-003 - TECHNICAL GROUND INSULATED GROUND BAR (traced).json](../SCHEMATICS/19xx%20-%20M608%20-%20DOC%20-%20608-02-003%20-%20TECHNICAL%20GROUND%20INSULATED%20GROUND%20BAR%20(traced).json) (the CAD file: `19xx - M608 - DOC - 608-02-003 - TECHNICAL GROUND INSULATED GROUND BAR (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M608 - DOC - 608-02-003 - TECHNICAL GROUND INSULATED GROUND BAR (traced).json](../SCHEMATICS/19xx%20-%20M608%20-%20DOC%20-%20608-02-003%20-%20TECHNICAL%20GROUND%20INSULATED%20GROUND%20BAR%20%28traced%29.json) (the CAD file: `19xx - M608 - DOC - 608-02-003 - TECHNICAL GROUND INSULATED GROUND BAR (traced).dxf`).
 
 ## Full text
 

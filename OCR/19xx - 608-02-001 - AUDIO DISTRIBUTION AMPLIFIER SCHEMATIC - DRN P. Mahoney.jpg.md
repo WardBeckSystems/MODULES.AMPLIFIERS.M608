@@ -33,7 +33,7 @@ Wiki page: [M608](../../../../PAGES/M608.md)
 - **Words (OCR):** 184 in 181 lines: NQTESi · VJALL · ResistoRS V/4w 51 · CAPACITORSARE INAF · +S2v · UNLESS OtheRWSE SPECIFIED_ · C21 · 2)LAST COMPONENT DESIGNATIONS · Bez · R45 · R46 · C3t
 - **Wiring (first pass):** 239 connected wire groups from 1,186 runs; labelled ends: 368 mm → Rzi2w, ISp, 27k, C15; 243 mm → 401, WBS; 183 mm → WBS; 110 mm → R53, zw, <R22, 'Sp; 96 mm → 2N4037, Rz6, 22k, R3i
 
-Every curve, box, word and wire group: [19xx - 608-02-001 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney (traced).json](../SCHEMATICS/19xx%20-%20608-02-001%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20P.%20Mahoney%20(traced).json) (the CAD file: `19xx - 608-02-001 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 608-02-001 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney (traced).json](../SCHEMATICS/19xx%20-%20608-02-001%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20P.%20Mahoney%20%28traced%29.json) (the CAD file: `19xx - 608-02-001 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney (traced).dxf`).
 
 ## Full text
 

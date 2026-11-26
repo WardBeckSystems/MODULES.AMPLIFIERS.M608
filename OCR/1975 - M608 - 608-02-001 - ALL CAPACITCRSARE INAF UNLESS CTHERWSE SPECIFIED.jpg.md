@@ -23,7 +23,7 @@ Wiki page: [M608](../../../../PAGES/M608.md)
 - **Title block:** (246, 22)–(300, 44) mm: WBS WARD · M608
 - **Wiring (first pass):** 241 connected wire groups from 1,071 runs; labelled ends: 366 mm → Rzi2w, Sp, 27k, C18; 122 mm → 70-9; 110 mm → R53, (2w, Sp, 742; 96 mm → 2N4037, RZ6, R3i, Sk6; 80 mm → 32v, R27, 6k6, 2N4037
 
-Every curve, box, word and wire group: [1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED (traced).json](../SCHEMATICS/1975%20-%20M608%20-%20608-02-001%20-%20ALL%20CAPACITCRSARE%20INAF%20UNLESS%20CTHERWSE%20SPECIFIED%20(traced).json) (the CAD file: `1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED (traced).json](../SCHEMATICS/1975%20-%20M608%20-%20608-02-001%20-%20ALL%20CAPACITCRSARE%20INAF%20UNLESS%20CTHERWSE%20SPECIFIED%20%28traced%29.json) (the CAD file: `1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED (traced).dxf`).
 
 ## Full text
 

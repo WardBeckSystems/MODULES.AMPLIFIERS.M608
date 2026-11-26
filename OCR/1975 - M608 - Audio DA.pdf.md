@@ -26,7 +26,7 @@ Wiki page: [M608](../../../../PAGES/M608.md)
 - **Words (OCR):** 10 in 7 lines: WARD-BECK systeMS LTD_ · WES 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTAAIO · TeleX: 065-25389 · TeLEPHONE: 418/438-8330 · M608 · AUDIO DISTRIBUTION · AMPLIFIER
 - **Title block:** (112, 389)–(261, 415) mm: WARD-BECK systeMS LTD_ · WES 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTAAIO · TeleX: 065-25389 · TeLEPHONE: 418/438-8330
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p1 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p1%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p1 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p1%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p1 (traced).json]
 - **Words (OCR):** 68 in 49 lines: WAAD-BECX Systems LTD; · TABLE OF · CONTENTS · M6ob Audio · DISTR BUTION · AMPLIFJER · SECTION · PAGE · Warranty · Technical Data · 1-1 · to
 - **Title block:** (78, 54)–(282, 417) mm: WAAD-BECX Systems LTD; · TABLE OF · CONTENTS · M6ob Audio · DISTR BUTION · AMPLIFJER · PAGE · Warranty · Technical Data · 1-1 · to · 1-2 · Circuit Description · 2-1 to · 2-3 · Installation · 3-1 · Par
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p2 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p2%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p2 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p2 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p2%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p2 (traced).dxf`).
 
 ### Page 3
 
@@ -46,7 +46,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p2 (traced).json]
 - **Dots (junctions):** 1
 - **Words (OCR):** 158 in 86 lines: WAAD-BECK SYSTEMS LTD; · TECHNICAL · DATA · Msc? AUD !0 DISTRIBUT{ON AMPL IF4ER · Gain: · +18 I0 · dB continuously · variable · (Bridging Gain) · Frecuency · Response · 0.25
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p3 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p3%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p3 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p3 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p3%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p3 (traced).dxf`).
 
 ### Page 4
 
@@ -55,7 +55,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p3 (traced).json]
 - **Outlines:** line 66 rings, 927 straight (3,452 mm) / 161 curved (245 mm); text 275 rings, 2,019 straight (2,224 mm) / 622 curved (957 mm)
 - **Words (OCR):** 41 in 21 lines: LTD. · TECHNICAL DATA · M6ze Audi0 Distribution · AMPLIFTER · Power Requirements: · 115 volts ac · 10% , 60 · Hz, 20 VA _ · Ambient Temperature: · 60  degrees Celsius · Diferisions: · 3.4" wide 3.4"
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p4 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p4%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p4 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p4 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p4%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p4 (traced).dxf`).
 
 ### Page 5
 
@@ -65,7 +65,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p4 (traced).json]
 - **Closed boxes:** 1
 - **Words (OCR):** 258 in 138 lines: WARD-BECK SYSTEMs LTD; · circuit · DESCRIPTION · M6c8 AUDI0 · AMPL IFIER · Amire? · the · 15v ac · 60 Hz power Tine . · Tne modular plug · in unit is · designed
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p5 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p5%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p5 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p5 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p5%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p5 (traced).dxf`).
 
 ### Page 6
 
@@ -75,7 +75,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p5 (traced).json]
 - **Dots (junctions):** 1
 - **Words (OCR):** 250 in 111 lines: WARD-BECK SYSTeMS LTD; · CiRcUiT DESCRIPT ION · i6o? AUD/0 DiSTRIButiON AMPL iFIES · 6c'ey caiarceu · ampiif;e · pin · 8na · The · 8-116 amplifier card is connected to the · primary · of the · two
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p6 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p6%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p6 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p6 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p6%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p6 (traced).dxf`).
 
 ### Page 7
 
@@ -84,7 +84,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p6 (traced).json]
 - **Outlines:** line 168 rings, 1,584 straight (4,107 mm) / 321 curved (470 mm); text 1,192 rings, 8,411 straight (9,126 mm) / 2,527 curved (3,848 mm)
 - **Words (OCR):** 169 in 92 lines: LTD · CIRcUIT DESCRiPTiON · M6j8 AUDiC · Distribution_AMPL !Fier · 37d · 20 · 438"G3 · 24 · DS3 · U101 Again, · DS2 is driven by · the
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p7 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p7%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p7 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p7 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p7%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p7 (traced).dxf`).
 
 ### Page 8
 
@@ -94,7 +94,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p7 (traced).json]
 - **Words (OCR):** 280 in 128 lines: WAAD-BECX Systems LTD_ · INSTALLATION · AuCic · AMPLIFIER · Gire:: , in · mounting frame, which may · be · installed in · standard · EIA 19 inch · equipment rack. · The MF6
 - **Title block:** (22, 299)–(236, 419) mm: WAAD-BECX Systems LTD_ · INSTALLATION · AuCic · AMPLIFIER · Gire:: , in · mounting frame, which may · be · installed in · standard · equipment rack. · The MF6 · frame will accommodate · M6o8 series of
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p8 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p8%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p8 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p8 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p8%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p8 (traced).dxf`).
 
 ### Page 9
 
@@ -104,7 +104,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p8 (traced).json]
 - **Words (OCR):** 155 in 127 lines: WAAD-BECX systems LTD. · PARTS List · M6o8 AuDio DiSTRiaution · AMPLIFIER · FART · MFG PART NumbER · MAIN FRAME · F201 · Fuse 0.175A · Buss · MDL 175/1000 · Rzo1
 - **Title block:** (77, 238)–(246, 418) mm: WAAD-BECX systems LTD. · PARTS List · M6o8 AuDio DiSTRiaution · AMPLIFIER · Fuse 0.175A · Buss · Pctentiometer 5X · Clarosiat · wes 10-836 · Pin Connector · Amphenoi · 26-159-16 · Pin Connector · Edac
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p9 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p9%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p9 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p9 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p9%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p9 (traced).dxf`).
 
 ### Page 10
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p9 (traced).json]
 - **Outlines:** line 168 rings, 1,493 straight (4,358 mm) / 305 curved (486 mm); text 795 rings, 6,259 straight (6,922 mm) / 1,840 curved (2,891 mm)
 - **Words (OCR):** 122 in 106 lines: WAAD-BECX Systems LTD; · PARTS List · M6o8 AUdio DiSTR buTION · AMP_ifieR · PART · DescRiPTiON · MFG · M-s FART · nulIDER · C26 · Capacitor 22 PF · Philips
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p10 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p10%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p10 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p10 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p10%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p10 (traced).dxf`).
 
 ### Page 11
 
@@ -123,7 +123,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p10 (traced).json
 - **Words (OCR):** 117 in 101 lines: WARD-BECK systems · LTD; · PARTS LisT · Meob · AMLIFIER · FARI · Mfs · MFG FART Numsp · Resistor 1/Lw 59 · RIT · 620 · Philips
 - **Title block:** (20, 393)–(129, 417) mm: WARD-BECK systems
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p11 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p11%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p11 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p11 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p11%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p11 (traced).dxf`).
 
 ### Page 12
 
@@ -132,7 +132,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p11 (traced).json
 - **Outlines:** line 170 rings, 1,482 straight (4,581 mm) / 324 curved (491 mm); text 628 rings, 5,028 straight (5,826 mm) / 1,342 curved (2,116 mm)
 - **Words (OCR):** 91 in 81 lines: WAAD-BECX systems LTD · PARTs · Lst · M6oa AUD/0 · DUSTRBUTION AMPLIFIER · FGRT · PART NumBEc · RL6 · Resistor · 1/4w · 22 · Philips
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p12 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p12%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p12 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p12 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p12%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p12 (traced).dxf`).
 
 ### Page 13
 
@@ -142,7 +142,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p12 (traced).json
 - **Words (OCR):** 88 in 72 lines: WAAD-BeCk SysTems LTD; · PARTS List · M6ce · DiSTRibution AMPLIFIER · R1o1 · Resistor 3w · 1K · Dale · CW-2B · R102 · 1k · R1o3
 - **Title block:** (24, 42)–(132, 419) mm: WAAD-BeCk SysTems LTD; · M6ce · R1o1 · Resistor 3w · R102 · R1o3 · Resistor · 1/4w · 53 · R1OL Resistor 3W · Resistor 6#W · R1o6 · R1o7 · R108 · R109 · R11o · RIII · R112 · R113 · RL · R1is · R116 · R
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p13 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p13%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p13 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p13 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p13%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p13 (traced).dxf`).
 
 ### Page 14
 
@@ -152,7 +152,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p13 (traced).json
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 5.8 @ (213.0, 230.1), r 5.7 @ (212.8, 190.3), r 5.6 @ (212.5, 150.6)
 - **Words (OCR):** 23 in 19 lines: 38 (-6dB) · ,38 PRE · ~10 To +14 dBm · OuT · 600 OHmS · 31 · GAIN · ~6/+18dB · COMPARATORS · 38 · OVERLOAD · REF
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p14 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p14%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p14 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p14 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p14%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p14 (traced).dxf`).
 
 ### Page 15
 
@@ -163,7 +163,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p14 (traced).json
 - **Words (OCR):** 24 in 21 lines: (-6dB) · Outputs · +8dBm · 600 OHmS · (-6d8) · ISSUE |DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN · M608
 - **Title block:** (113, 14)–(331, 116) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN · M608 · ENG. MRN /o/?8 · DISTRIBUTION AMPLIFIER · AUDIO · CKD · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 608-01-001
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p15 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p15%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p15 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p15 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p15%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p15 (traced).dxf`).
 
 ### Page 16
 
@@ -173,7 +173,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p15 (traced).json
 - **Closed boxes:** 1
 - **Words (OCR):** 155 in 141 lines: Tzo1 60-15 · IBy · RIt · too · 1e2 · Sz · 620 · 2335 225 Szk · L4zo1 · 2K2 · CRI CRS · R4
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p16 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p16%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p16 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p16 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p16%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p16 (traced).dxf`).
 
 ### Page 17
 
@@ -185,7 +185,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p16 (traced).json
 - **Words (OCR):** 174 in 169 lines: AL CAPACITORSARE · +32v · UNLESS OThERWSE SPECIFIED · C21 · Z)LAST COMPONENT DESIGNATIONS | · B02 · 045 · R46 · R36, · SkB · 22 · 24Z
 - **Title block:** (246, 22)–(315, 44) mm: WBS WARDBeck · M608
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p17 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p17%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p17 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p17 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p17%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p17 (traced).dxf`).
 
 ### Page 18
 
@@ -196,7 +196,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p17 (traced).json
 - **Dots (junctions):** 3
 - **Words (OCR):** 53 in 45 lines: MULTIPLE UNT WIEIG · WTHINA · MOUNTIG EBAAE · LA1 OUTFUTS · P2-2 · 3o (1CF 2) · INFLT 1 · F2-a A1 51- · NC · F2-1 · F2-2 · A8Az OUTPiTS
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p18 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p18%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p18 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p18 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p18%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p18 (traced).dxf`).
 
 ### Page 19
 
@@ -210,7 +210,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p18 (traced).json
 - **Title block:** (110, 10)–(328, 111) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN:P MatloNax · M608 _ M6o8A · ENG. Mew 1/2_ · AUDIO DISTRIBUTION AMPLIrIER · CKD: 6i · SYSTEM · WWIRING · SCHEMAric · APP · SCALE · ISSUE · 608
 - **Wiring (first pass):** 31 connected wire groups from 110 runs; labelled ends: 84 mm → NOTES:, V/77, TERMINAL, PHASE; 16 mm → LOA1 OUTFUTS, (1 CF 2); 12 mm → 115VAC, 60 Hz; 12 mm → 115VAC; 11 mm → ME, LOA1 OUTFUTS
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p19 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p19%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p19 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p19 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p19%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p19 (traced).dxf`).
 
 ### Page 20
 
@@ -223,7 +223,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p19 (traced).json
 - **Words (OCR):** 57 in 52 lines: MODULE COMMON MAY · BE · USED To · CONNECT · OUTPUT · CABLE · SHIELDS · CHASSIS · MOCULE · i8o · CCMCN 7C · SYSTEMS
 - **Title block:** (260, 11)–(336, 297) mm: MOCULE · CCMCN 7C · SYSTEMS · GROUND · CUTPUTs · OUTFUT 6 · OUTPUT 7 · CUTPUTE · INPUT · SHIELD · CONNECTION · ISSU · WBS · DRN P MaeNey · ENG. MeW 1/o · CKD: · APP · SCALE
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p20 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p20%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p20 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p20 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p20%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p20 (traced).dxf`).
 
 ### Page 21
 
@@ -236,7 +236,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p20 (traced).json
 - **Words (OCR):** 54 in 49 lines: MODULE · COMMON MAY · BE · USED To · CONNECT · OUTPUT · CAELE · SHIELDS · CHASSIS · MODULE · CCMCN TC · 010 20
 - **Title block:** (115, 11)–(332, 113) mm: 3723 · Pm · 1o/80 · ISSUE |DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN,R MaloNeY · M608/M6o8A · ENG. MEW 7zo · AUDIO · DISTRIBUTION AMPLIFIER · CKD · LAYOUT · REAR CONNECTOR · APP · SCALE · 
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p21 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p21%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p21 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p21 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p21%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p21 (traced).dxf`).
 
 ### Page 22
 
@@ -245,7 +245,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p21 (traced).json
 - **Outlines:** line 627 rings, 8,310 straight (18,988 mm) / 1,732 curved (2,203 mm); text 65 rings, 449 straight (514 mm) / 152 curved (253 mm)
 - **Words (OCR):** 14 in 14 lines: 14-O17 · T203 · 7204 · P2 · R9 · R12 · R23 · RA1 · 8-116 · TP1 · 3-117 · Ds2
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p22 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p22%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p22 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p22 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p22%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p22 (traced).dxf`).
 
 ### Page 23
 
@@ -256,7 +256,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p22 (traced).json
 - **Words (OCR):** 22 in 21 lines: T2c4 · T201 · T202 · R2o1 · F201 · Issu DATE · REVISION · APP · WARO-BECK · BYSTEMS · WBS · M608
 - **Title block:** (194, 1)–(336, 75) mm: Issu DATE · REVISION · APP · WARO-BECK · BYSTEMS · WBS · M608 · AUDIO DISTRIBUTION · AMPLIFIER · CKD: · COMPONENT · LAYOUT · App · SCALE · ISSUE · 608-06-002
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p23 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p23%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p23 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p23 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p23%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p23 (traced).dxf`).
 
 ### Page 24
 
@@ -267,7 +267,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p23 (traced).json
 - **Closed boxes:** 8; named: 323 Sox; R9 2Jk; IRiz; 03 Lm2oi; 04 Lm2oi; 02 Lf3578; Lmzoi
 - **Words (OCR):** 74 in 64 lines: LF · OfF · set · KF · 2n3569 · R9 2Jk · IRiz · 323 Sox · +-C322/25 · ~R404M7 · ~Cl4 IsF R46 22 · AM7
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p24 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p24%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p24 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p24 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p24%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p24 (traced).dxf`).
 
 ### Page 25
 
@@ -279,7 +279,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p24 (traced).json
 - **Words (OCR):** 98 in 89 lines: OUTLINE OF · AEAT · SinK FOR Q4,05,Qsfqi0_ · TP · 2n3563 · 03 · 4. Vzw · Rsi · Tip2sb · ~Rse+Ziw · ~R+9-2kg · 22
 - **Title block:** (115, 10)–(332, 114) mm: 2/80 · 3670 · PM · APP · ISSUE |DATE · REVISION · WBS · WARD-BECK SYSTEMS · DRN: GEB · 8-116 · ENG.GEB 2/79 · DA: · AMPLIFIER · CKD: · COMPONENT LAYOUT · App · ISSUE · SCALE · 8-116-06-001 · 2:1
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p25 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p25%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p25 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p25 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p25%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p25 (traced).dxf`).
 
 ### Page 26
 
@@ -292,7 +292,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p25 (traced).json
 - **Words (OCR):** 52 in 46 lines: ~RiOi · Ik 3w · 8 - 117 · 1k 3w · Rio2 · 0E · Ds? · 3k3 Q1c2 Qioi · RC ~Rloow · -Rios · RiIO JKb · RIo7
 - **Title block:** (291, 10)–(336, 73) mm: DRN · GEB · ENG. GEB 1/7 · CKD: · APP · SCALE · 2:1
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p26 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p26%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p26 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p26 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p26%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p26 (traced).dxf`).
 
 ### Page 27
 
@@ -303,7 +303,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p26 (traced).json
 - **Words (OCR):** 33 in 30 lines: NeIE:: · TRAnSiSTORS Qici · AND · 0182 · ARE · Pn3645_ · DIodEs · CRiozt3 · CRiO5 · ARE · IN4143 · 4039
 - **Title block:** (116, 9)–(333, 112) mm: 4039 · ML · ISSUE |DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN: GEB · 8-117 · ENG. GEB 1/79 · INDICATOR DRIVER · CKD · COMPONENT · LAYOUT · APP · SCALE · ISSUE · 8-117-06-001 · 2:1
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p27 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p27%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p27 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p27 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p27%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p27 (traced).dxf`).
 
 ### Page 28
 
@@ -314,7 +314,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p27 (traced).json
 - **Closed boxes:** 3; named: R211 R215 _ R217; ~R2o3 Rzos - R2o7- R2os; R2oz R2o6 - R2o8-
 - **Words (OCR):** 16 in 15 lines: R211 · R2oz · ~R2o3 · Rzos - · R215 _ · R2o6 - · R2o7- · R217 · R2o8- · R2os · LEFT SIDE · RIGHT SIDE
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p28 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p28%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p28 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p28 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p28%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p28 (traced).dxf`).
 
 ### Page 29
 
@@ -326,7 +326,7 @@ Every curve, box, word and wire group: [1975 - M608 - Audio DA p28 (traced).json
 - **Words (OCR):** 34 in 25 lines: NOTE: · 14 14-017 (M6O8) ALL RESISTORS · ARE 240 1/2w. · 2-/ 14-017A (MGO8A) ALL REsIST - · ORS ARE 56 1/2w · Rzto_ · FR214 · ~R216 · RIGHT SIE · P2 · ISSUE DATE · REVISION
 - **Title block:** (112, 12)–(331, 113) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN RMloNey · 14-017/.i4-017A · ENG. MBW 7/ 30 · ISOLATION · NETWORK · ICKD: · COMPO.VENT LAYOU · APP · SCALE · 714-017-06"001 · ISSUE
 
-Every curve, box, word and wire group: [1975 - M608 - Audio DA p29 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p29%20(traced).json) (the CAD file: `1975 - M608 - Audio DA p29 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - Audio DA p29 (traced).json](../MANUALS/1975%20-%20M608%20-%20Audio%20DA%20p29%20%28traced%29.json) (the CAD file: `1975 - M608 - Audio DA p29 (traced).dxf`).
 
 ## Full text
 

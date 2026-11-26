@@ -24,7 +24,7 @@ Wiki page: [M608](../../../../PAGES/M608.md)
 - **Title block:** (110, 10)–(327, 112) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · M608 _ M6o8A · ENG. MeW 1/2= · AUDIO DISTRIBUTION AMPLIrIER · CKD: · SYSTEM ~WIRING · SCHEMAriC · APP · SCALE · ISSUE · 608-02-003
 - **Wiring (first pass):** 23 connected wire groups from 76 runs; labelled ends: 84 mm → NOTES:, V /77, 4 FHASING ;, TERMINAL; 17 mm → A4 OUTPUTS; 16 mm → A1 OUTPUTS, (1 CF 2); 12 mm → M15VAC, 60 Hz; 12 mm → M15VAC
 
-Every curve, box, word and wire group: [1975 - M608 - 608-02-003 - AUDIO DISTRIBUTION AMPLIFIER (traced).json](../SCHEMATICS/1975%20-%20M608%20-%20608-02-003%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20(traced).json) (the CAD file: `1975 - M608 - 608-02-003 - AUDIO DISTRIBUTION AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - 608-02-003 - AUDIO DISTRIBUTION AMPLIFIER (traced).json](../SCHEMATICS/1975%20-%20M608%20-%20608-02-003%20-%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1975 - M608 - 608-02-003 - AUDIO DISTRIBUTION AMPLIFIER (traced).dxf`).
 
 ## Full text
 

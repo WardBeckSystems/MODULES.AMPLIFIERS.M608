@@ -37,7 +37,7 @@ Connector wiring drawing with P1 and P2 connectors, title block at bottom right 
 - **Words (OCR):** 59 in 52 lines: MODULE COMMON MAY · BE · USED To · CONNECT · OUTPUT · CABLE · SHIELDS · CHASSIS · MODULE · 0s · i8o · CCMCN TC
 - **Title block:** (260, 11)–(336, 296) mm: MODULE · CCMCN TC · SYSTEMs · GROUND · CUTPUTs · OUTFUT 6 · OUTPUT 7 · CUTPUTE · TNPUT · SHIELD · CONNECTION · ISSU · WBS · ENG. MEW 7go · CKD: · APP · SCALE
 
-Every curve, box, word and wire group: [1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2 (traced).json](../PINOUTS/1980%20-%20608-04-001%20-%20(cut%20off%3B%20connector%20wiring%20diagram%2C%20P1%20P2%2C%20%27CT%20M608%27%20note)%20-%20DRN%20D.%20Mahoney%20-%20ENG%20MRW%20-%20ISS%202%20(traced).json) (the CAD file: `1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2 (traced).json](../PINOUTS/1980%20-%20608-04-001%20-%20%28cut%20off%3B%20connector%20wiring%20diagram%2C%20P1%20P2%2C%20%27CT%20M608%27%20note%29%20-%20DRN%20D.%20Mahoney%20-%20ENG%20MRW%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2 (traced).dxf`).
 
 ## Full text
 

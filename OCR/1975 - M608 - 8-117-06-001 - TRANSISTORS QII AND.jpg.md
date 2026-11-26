@@ -20,7 +20,7 @@ Wiki page: [M608](../../../../PAGES/M608.md)
 - **Words (OCR):** 32 in 29 lines: NOTES: · TRAnsiStoRS Qioi · AN · 0102 ARE · PN3645 · DIODES · CRiO5 · ARE · IN4143 · I3olsle: 4039 · ISSUE |DATE · REVISION
 - **Title block:** (116, 9)–(333, 112) mm: I3olsle: 4039 · ISSUE |DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN_ · GEB · 8-117 · ENG. GEB 1/79 · INDICATOR · DRIVER · CKD · COMPONENT · LAYOUT · APP · SCALE · ISSUE · 8-117-06-001 · 2:1
 
-Every curve, box, word and wire group: [1975 - M608 - 8-117-06-001 - TRANSISTORS QII AND (traced).json](../SCHEMATICS/1975%20-%20M608%20-%208-117-06-001%20-%20TRANSISTORS%20QII%20AND%20(traced).json) (the CAD file: `1975 - M608 - 8-117-06-001 - TRANSISTORS QII AND (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M608 - 8-117-06-001 - TRANSISTORS QII AND (traced).json](../SCHEMATICS/1975%20-%20M608%20-%208-117-06-001%20-%20TRANSISTORS%20QII%20AND%20%28traced%29.json) (the CAD file: `1975 - M608 - 8-117-06-001 - TRANSISTORS QII AND (traced).dxf`).
 
 ## Full text
 

@@ -34,7 +34,7 @@ Wiki page: [M608](../../../../PAGES/M608.md)
 - **Words (OCR):** 68 in 65 lines: UNLEGS · BAle · czol · BllZ · Ria 01ci · T2o' 60-13 · 1491ZB · EAILEBALL · A2o1 · CR3 · 33' Vzw · OfE
 - **Wiring (first pass):** 200 connected wire groups from 1,778 runs; labelled ends: 533 mm → WBS); 262 mm → .022], 13/35; 238 mm → 574, 45; 138 mm → czol; 136 mm → C3z
 
-Every curve, box, word and wire group: [19xx - 608-02-002 - M608A AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ENG MRW (traced).json](../SCHEMATICS/19xx%20-%20608-02-002%20-%20M608A%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20P.%20Mahoney%20-%20ENG%20MRW%20(traced).json) (the CAD file: `19xx - 608-02-002 - M608A AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ENG MRW (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 608-02-002 - M608A AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ENG MRW (traced).json](../SCHEMATICS/19xx%20-%20608-02-002%20-%20M608A%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20P.%20Mahoney%20-%20ENG%20MRW%20%28traced%29.json) (the CAD file: `19xx - 608-02-002 - M608A AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ENG MRW (traced).dxf`).
 
 ## Full text
 
