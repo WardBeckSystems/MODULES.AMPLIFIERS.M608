@@ -1,0 +1,80 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA (2).pdf",
+ "page": 28,
+ "version": 1,
+ "trace": "_traces/61b5244b5e4cd80c-p28.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "28", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 6.0, 336.4, 423.8],
+ "outlines": {
+  "line": {"rings": 77, "straight": {"n": 1653, "mm": 4822.6}, "curved": {"n": 222, "mm": 473.4}},
+  "text": {"rings": 243, "straight": {"n": 1710, "mm": 2276.1}, "curved": {"n": 380, "mm": 703.9}}
+ },
+ "circles": [
+  {"c": [310.2, 247.2], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [310.1, 233.6], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [310.1, 207.2], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [91.9, 247.1], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [92.0, 220.2], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [92.0, 233.5], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [310.2, 220.4], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [192.7, 220.6], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [192.6, 233.8], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [92.0, 260.5], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [91.9, 206.9], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [192.6, 207.1], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7}
+ ],
+ "boxes": [
+  {"mm": [238.6, 199.7, 318.7, 268.4], "w": 80.1, "h": 68.7, "from": "ring", "words": ["R2", "11-", "-R21;3-", "-R215-", "-R217-"]},
+  {"mm": [120.0, 199.5, 201.7, 268.1], "w": 81.7, "h": 68.6, "from": "ring", "words": ["R203-", "-R205", "-R207-", "-::..R.20"]},
+  {"mm": [19.0, 199.7, 100.6, 268.0], "w": 81.6, "h": 68.3, "from": "ring", "words": ["-R202-", "-R204-", "-R206-", "-R208-"]}
+ ],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [274.2, 257.1, 302.5, 262.9], "text": "R2 11-"},
+   {"mm": [43.6, 243.5, 84.2, 249.3], "text": "-R202-"},
+   {"mm": [150.7, 243.8, 185.0, 249.5], "text": "R203-"},
+   {"mm": [263.2, 243.8, 302.9, 249.5], "text": "-R21;3-"},
+   {"mm": [43.8, 230.1, 84.4, 235.9], "text": "-R204-"},
+   {"mm": [145.3, 229.9, 174.7, 235.7], "text": "-R205"},
+   {"mm": [263.2, 230.1, 302.5, 235.9], "text": "-R215-"},
+   {"mm": [144.9, 216.8, 185.5, 222.5], "text": "-R207-"},
+   {"mm": [263.8, 216.8, 302.7, 222.5], "text": "-R217-"},
+   {"mm": [43.4, 216.5, 84.2, 222.3], "text": "-R206-"},
+   {"mm": [44.0, 203.4, 84.4, 209.1], "text": "-R208-"},
+   {"mm": [144.9, 203.4, 168.8, 209.1], "text": "-::..R.20"},
+   {"mm": [31.5, 181.8, 60.2, 188.3], "text": "LEFT"},
+   {"mm": [72.5, 181.8, 89.2, 188.3], "text": "IDE"},
+   {"mm": [131.3, 181.8, 188.0, 188.3], "text": "RIGHT SIDE"},
+   {"mm": [248.5, 181.8, 301.8, 188.3], "text": "LEFT IDE"},
+   {"mm": [99.5, 170.8, 111.8, 178.5], "text": "P1"},
+   {"mm": [315.6, 170.3, 331.6, 178.5], "text": "P2"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 6–424 mm up",
+  "- **Outlines:** line 77 rings, 1,653 straight (4,823 mm) / 222 curved (473 mm); text 243 rings, 1,710 straight (2,276 mm) / 380 curved (704 mm)",
+  "- **Circles and arcs:** 12 circles, 0 arcs; largest r 3.1 @ (310.2, 247.2), r 3.1 @ (310.1, 233.6), r 3.1 @ (310.1, 207.2), r 3.1 @ (91.9, 247.1)",
+  "- **Closed boxes:** 3; named: R2 11- -R21;3- -R215- -R217-; R203- -R205 -R207- -::..R.20; -R202- -R204- -R206- -R208-",
+  "- **Words (OCR):** 25 in 22 lines: R2 11- · -R202- · R203- · -R21;3- · -R204- · -R205 · -R215- · -R207- · -R217- · -R206- · -R208- · -::..R.20"
+ ]
+}

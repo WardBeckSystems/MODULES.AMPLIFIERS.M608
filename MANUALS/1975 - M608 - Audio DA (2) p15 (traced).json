@@ -1,0 +1,116 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA (2).pdf",
+ "page": 15,
+ "version": 1,
+ "trace": "_traces/61b5244b5e4cd80c-p15.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "15", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 3.5, 336.4, 427.9],
+ "outlines": {
+  "line": {"rings": 169, "straight": {"n": 2577, "mm": 6788.1}, "curved": {"n": 503, "mm": 719.0}},
+  "text": {"rings": 199, "straight": {"n": 1722, "mm": 2482.8}, "curved": {"n": 458, "mm": 744.6}},
+  "tb": {"rings": 64, "straight": {"n": 712, "mm": 1052.4}, "curved": {"n": 209, "mm": 335.1}}
+ },
+ "circles": [{"c": [72.0, 288.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [209.0, 98.6, 307.2, 108.0], "w": 98.2, "h": 9.3, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [308.3, 99.1, 326.7, 108.0], "w": 18.4, "h": 8.9, "from": "ring", "words": ["APR"], "in_title_block": true},
+  {"mm": [188.9, 98.9, 207.9, 107.7], "w": 19.0, "h": 8.9, "from": "ring", "words": ["DATE"], "in_title_block": true},
+  {"mm": [168.6, 98.7, 187.8, 107.5], "w": 19.2, "h": 8.9, "from": "ring", "words": ["ISSUE"], "in_title_block": true},
+  {
+   "mm": [119.0, 70.6, 326.7, 97.6],
+   "w": 207.7,
+   "h": 27.0,
+   "from": "ring",
+   "words": ["[\\NBS]", "WARe-BECK", "SYSTEMS"],
+   "in_title_block": true
+  },
+  {
+   "mm": [168.6, 30.7, 326.8, 70.4],
+   "w": 158.3,
+   "h": 39.7,
+   "from": "ring",
+   "words": ["ps", "BS", "60", "AUDIO", "DISTRIBUTI0", "1'l", "AM", "PLIFIER", "FUNCTIONAL", "DIAGRAM\"\"\"!'\"", "tp"]
+  },
+  {"mm": [118.7, 50.3, 167.5, 59.4], "w": 48.8, "h": 9.1, "from": "ring", "words": ["NG.", "~R.'i1", "10J"], "in_title_block": true},
+  {"mm": [118.7, 40.4, 167.5, 49.2], "w": 48.8, "h": 8.9, "from": "ring", "words": ["CK"], "in_title_block": true},
+  {"mm": [118.7, 30.2, 167.5, 39.3], "w": 48.8, "h": 9.1, "from": "ring", "words": ["APP."], "in_title_block": true},
+  {"mm": [288.4, 11.2, 326.2, 30.4], "w": 37.8, "h": 19.2, "from": "ring", "words": ["IS", "SUE"]},
+  {"mm": [188.8, 10.3, 287.4, 30.0], "w": 98.6, "h": 19.7, "from": "ring", "words": ["ht", "60S", "1-00"]},
+  {"mm": [168.6, 10.1, 187.7, 29.4], "w": 19.1, "h": 19.3, "from": "ring", "words": ["at"]},
+  {"mm": [118.7, 9.8, 167.5, 29.1], "w": 48.8, "h": 19.4, "from": "ring", "words": ["SCALE"]}
+ ],
+ "text": {
+  "words": 36,
+  "lines": [
+   {"mm": [83.1, 276.8, 95.4, 282.1], "text": "dBm"},
+   {"mm": [70.0, 269.0, 97.8, 274.3], "text": "100 OHMS"},
+   {"mm": [19.2, 201.2, 28.3, 206.5], "text": "dB)"},
+   {"mm": [311.8, 99.5, 326.2, 106.2], "text": "APR"},
+   {"mm": [170.8, 99.5, 206.0, 104.8], "text": "ISSUE DATE"},
+   {"mm": [245.3, 100.0, 272.0, 105.2], "text": "REVISION"},
+   {"mm": [124.4, 75.8, 319.3, 91.9], "text": "[\\NBS] WARe-BECK SYSTEMS"},
+   {"mm": [279.6, 50.3, 336.2, 74.3], "text": "ps I,j"},
+   {"mm": [121.1, 60.5, 167.1, 69.1], "text": "DRN.\"I.?A6~"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [240.9, 53.1, 249.8, 60.3], "text": "60"},
+   {"mm": [124.4, 50.5, 157.2, 58.0], "text": "NG. ~R.'i1 10J"},
+   {"mm": [186.3, 45.3, 311.8, 52.8], "text": "AUDIO DISTRIBUTI0 1'l AM PLIFIER"},
+   {"mm": [121.1, 41.5, 129.1, 46.7], "text": "CK"},
+   {"mm": [202.1, 34.1, 298.8, 41.5], "text": "FUNCTIONAL DIAGRAM\"\"\"!'\""},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [121.1, 31.1, 134.3, 36.4], "text": "APP."},
+   {"mm": [172.7, 8.9, 257.6, 28.8], "text": "at 60S 1-00"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"},
+   {"mm": [133.6, 22.0, 152.6, 27.3], "text": "SCALE"},
+   {"mm": [299.5, 18.4, 317.2, 23.6], "text": "IS SUE"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [114.4, 13.3, 325.9, 113.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "APR",
+   "ISSUE DATE",
+   "REVISION",
+   "[\\NBS] WARe-BECK SYSTEMS",
+   "ps I,j",
+   "DRN.\"I.?A6~",
+   "BS",
+   "60",
+   "NG. ~R.'i1 10J",
+   "AUDIO DISTRIBUTI0 1'l AM PLIFIER",
+   "CK",
+   "FUNCTIONAL DIAGRAM\"\"\"!'\"",
+   "tp",
+   "APP.",
+   "at 60S 1-00",
+   "ht",
+   "SCALE",
+   "IS SUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 4–428 mm up",
+  "- **Outlines:** line 169 rings, 2,577 straight (6,788 mm) / 503 curved (719 mm); text 199 rings, 1,722 straight (2,483 mm) / 458 curved (745 mm); tb 64 rings, 712 straight (1,052 mm) / 209 curved (335 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.3 @ (72.0, 288.0)",
+  "- **Closed boxes:** 13 (8 in the title block); named: ps BS 60 AUDIO DISTRIBUTI0 1'l AM PLIFIE; IS SUE; ht 60S 1-00; at; SCALE",
+  "- **Words (OCR):** 36 in 21 lines: dBm · 100 OHMS · dB) · APR · ISSUE DATE · REVISION · [\\NBS] WARe-BECK SYSTEMS · ps I,j · DRN.\"I.?A6~ · BS · 60 · NG. ~R.'i1 10J",
+  "- **Title block:** (114, 13)–(326, 114) mm: APR · ISSUE DATE · REVISION · [\\NBS] WARe-BECK SYSTEMS · ps I,j · DRN.\"I.?A6~ · BS · 60 · NG. ~R.'i1 10J · AUDIO DISTRIBUTI0 1'l AM PLIFIER · CK · FUNCTIONAL DIAGRAM\"\"\"!'\" · tp · APP. · at 60S 1-00 · "
+ ]
+}

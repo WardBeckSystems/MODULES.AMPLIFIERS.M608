@@ -1,0 +1,77 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA (2).pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/61b5244b5e4cd80c-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 1.5, 335.9, 430.5],
+ "outlines": {
+  "line": {"rings": 337, "straight": {"n": 5116, "mm": 8878.2}, "curved": {"n": 1086, "mm": 1394.9}},
+  "text": {"rings": 66, "straight": {"n": 407, "mm": 487.3}, "curved": {"n": 113, "mm": 177.0}},
+  "tb": {"rings": 12, "straight": {"n": 181, "mm": 224.9}, "curved": {"n": 49, "mm": 77.2}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [322.6, 68.2, 334.2, 74.1], "w": 11.7, "h": 5.8, "from": "ring"},
+  {"mm": [232.1, 66.9, 244.4, 72.8], "w": 12.3, "h": 5.8, "from": "ring"},
+  {"mm": [245.3, 67.1, 257.6, 72.8], "w": 12.3, "h": 5.6, "from": "ring"},
+  {"mm": [245.3, 60.7, 257.6, 66.3], "w": 12.3, "h": 5.6, "from": "ring"},
+  {"mm": [232.3, 60.5, 244.6, 66.1], "w": 12.3, "h": 5.6, "from": "ring", "words": ["IlS5Uflo..n"]},
+  {
+   "mm": [232.3, 16.2, 334.2, 43.0],
+   "w": 101.9,
+   "h": 26.8,
+   "from": "ring",
+   "words": ["M60a", "tp", "AUDIO", "DISTRIBUTION", "AMPl.IFIER", "ht", "COMPONENT", "LAYOUT"]
+  },
+  {"mm": [245.7, 3.0, 309.4, 16.0], "w": 63.7, "h": 13.0, "from": "ring", "words": ["60a", "6-002"]},
+  {"mm": [232.5, 3.0, 245.0, 15.3], "w": 12.5, "h": 12.3, "from": "ring", "words": ["BI"]},
+  {"mm": [200.1, 2.6, 232.1, 15.1], "w": 32.0, "h": 12.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [14.7, 336.4, 27.2, 340.9], "text": "T2C"},
+   {"mm": [60.2, 305.3, 74.5, 309.6], "text": "T201"},
+   {"mm": [116.2, 246.3, 124.4, 250.7], "text": "02"},
+   {"mm": [149.2, 133.4, 155.7, 137.7], "text": "R2"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [118.3, 62.0, 128.5, 66.0], "text": "201"},
+   {"mm": [230.6, 60.0, 254.3, 66.0], "text": "IlS5Uflo..n"},
+   {"mm": [280.9, 59.8, 298.4, 66.0], "text": "~fVISlON"},
+   {"mm": [323.9, 60.5, 332.7, 64.1], "text": "API>"},
+   {"mm": [274.0, 47.3, 328.8, 59.2], "text": "BS SYSTEMS"},
+   {"mm": [202.5, 46.0, 291.9, 56.5], "text": "(VVE3S) WARD-BECK"},
+   {"mm": [273.3, 31.5, 288.4, 37.3], "text": "M60a"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [242.7, 25.3, 322.8, 30.5], "text": "AUDIO DISTRIBUTION AMPl.IFIER"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"},
+   {"mm": [254.8, 17.3, 310.0, 22.5], "text": "COMPONENT LAYOUT"},
+   {"mm": [234.7, 1.9, 293.6, 15.9], "text": "BI 60a 6-002"},
+   {"mm": [316.1, 9.3, 326.2, 13.1], "text": "1S5Ul"}
+  ]
+ },
+ "title_block": {"mm": [241.4, 38.6, 335.5, 60.6], "from": "title-block words (training set)", "text": ["BS SYSTEMS", "(VVE3S) WARD-BECK"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 2–430 mm up",
+  "- **Outlines:** line 337 rings, 5,116 straight (8,878 mm) / 1,086 curved (1,395 mm); text 66 rings, 407 straight (487 mm) / 113 curved (177 mm); tb 12 rings, 181 straight (225 mm) / 49 curved (77.2 mm)",
+  "- **Closed boxes:** 9; named: IlS5Uflo..n; M60a tp AUDIO DISTRIBUTION AMPl.IFIER ht; 60a 6-002; BI",
+  "- **Words (OCR):** 25 in 18 lines: T2C · T201 · 02 · R2 · ps · 201 · IlS5Uflo..n · ~fVISlON · API> · BS SYSTEMS · (VVE3S) WARD-BECK · M60a",
+  "- **Title block:** (241, 39)–(336, 61) mm: BS SYSTEMS · (VVE3S) WARD-BECK"
+ ]
+}

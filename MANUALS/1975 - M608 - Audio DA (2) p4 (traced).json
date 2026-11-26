@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA (2).pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/61b5244b5e4cd80c-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.4, 423.8],
+ "outlines": {
+  "line": {"rings": 197, "straight": {"n": 1919, "mm": 4497.6}, "curved": {"n": 434, "mm": 677.3}},
+  "text": {"rings": 236, "straight": {"n": 1557, "mm": 1770.3}, "curved": {"n": 426, "mm": 641.4}}
+ },
+ "circles": [
+  {"c": [50.0, 316.8], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [160.4, 303.4], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [70.7, 290.3], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 47,
+  "lines": [
+   {"mm": [55.3, 408.3, 79.7, 413.8], "text": "-BE CI<"},
+   {"mm": [89.8, 408.3, 99.7, 413.8], "text": "YS"},
+   {"mm": [127.4, 408.1, 144.0, 414.0], "text": "LTC."},
+   {"mm": [138.8, 366.6, 194.3, 371.6], "text": "TE HN! CAL OATA"},
+   {"mm": [121.6, 353.6, 132.8, 358.7], "text": "AUt-"},
+   {"mm": [145.1, 353.6, 189.8, 358.7], "text": "0lS TR 9UTI CN"},
+   {"mm": [198.6, 353.4, 206.2, 358.7], "text": "M9"},
+   {"mm": [221.5, 353.4, 229.1, 358.7], "text": "ER"},
+   {"mm": [149.6, 313.5, 152.9, 318.8], "text": "lt"},
+   {"mm": [163.0, 313.5, 170.3, 318.8], "text": "vol"},
+   {"mm": [182.7, 313.5, 189.1, 318.8], "text": "aC"},
+   {"mm": [226.3, 313.5, 270.1, 318.8], "text": "60 Hz 20 VA"},
+   {"mm": [156.7, 300.5, 186.1, 305.8], "text": "to 60 eg"},
+   {"mm": [205.3, 300.5, 224.1, 305.8], "text": "Ce ls iu"},
+   {"mm": [173.4, 288.0, 179.8, 293.3], "text": "de"},
+   {"mm": [210.5, 288.0, 224.5, 293.3], "text": "h;gn"},
+   {"mm": [257.6, 287.8, 264.3, 293.1], "text": "dc"},
+   {"mm": [149.6, 280.2, 171.4, 285.8], "text": "(83 mm"},
+   {"mm": [184.4, 280.2, 189.6, 285.8], "text": "aJ"},
+   {"mm": [216.8, 280.2, 241.8, 285.8], "text": "336 mml"},
+   {"mm": [44.3, 267.7, 68.0, 273.0], "text": "We Igl'll:"},
+   {"mm": [149.4, 267.7, 155.4, 273.0], "text": "11"},
+   {"mm": [166.2, 267.7, 188.0, 273.0], "text": "Lb 15"},
+   {"mm": [199.1, 267.7, 220.0, 273.0], "text": "I(g ne"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [111.6, 317.6], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–424 mm up",
+  "- **Outlines:** line 197 rings, 1,919 straight (4,498 mm) / 434 curved (677 mm); text 236 rings, 1,557 straight (1,770 mm) / 426 curved (641 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 1.7 @ (50.0, 316.8), r 1.7 @ (160.4, 303.4), r 1.6 @ (70.7, 290.3)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 47 in 28 lines: -BE CI< · YS · LTC. · TE HN! CAL OATA · AUt- · 0lS TR 9UTI CN · M9 · ER · lt · vol · aC · 60 Hz 20 VA"
+ ]
+}

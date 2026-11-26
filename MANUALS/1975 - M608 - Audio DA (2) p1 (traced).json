@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/61b5244b5e4cd80c-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 334.3, 424.3],
+ "outlines": {
+  "line": {"rings": 58, "straight": {"n": 849, "mm": 3303.2}, "curved": {"n": 147, "mm": 245.4}},
+  "text": {"rings": 159, "straight": {"n": 1308, "mm": 1804.6}, "curved": {"n": 250, "mm": 436.5}},
+  "tb": {"rings": 11, "straight": {"n": 238, "mm": 459.1}, "curved": {"n": 47, "mm": 83.5}}
+ },
+ "circles": [
+  {"c": [149.1, 214.0], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [164.3, 226.4], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [118.3, 397.5, 282.0, 404.9], "text": "WARO-BECK SYSTEMS LTO."},
+   {"mm": [43.6, 386.7, 169.3, 403.6], "text": "[\"WBS] 'f8A:x, cel5· 2I3lIlI"},
+   {"mm": [184.8, 392.1, 252.6, 396.4], "text": "8CAF'Ie:FICUCiHClNT.&AO"},
+   {"mm": [267.1, 392.3, 276.8, 395.9], "text": "QX04"},
+   {"mm": [250.9, 386.7, 277.9, 390.8], "text": "43B-eeeo"},
+   {"mm": [148.5, 219.8, 187.6, 232.3], "text": "M608"},
+   {"mm": [128.9, 209.6, 206.4, 216.1], "text": "AUDIO DISTRIBUTION"},
+   {"mm": [149.2, 201.0, 186.5, 207.5], "text": "AMPLIFIER"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [36.8, 379.0, 260.3, 413.6],
+  "from": "title-block words (training set)",
+  "text": ["WARO-BECK SYSTEMS LTO.", "[\"WBS] 'f8A:x, cel5· 2I3lIlI", "8CAF'Ie:FICUCiHClNT.&AO"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 0–424 mm up",
+  "- **Outlines:** line 58 rings, 849 straight (3,303 mm) / 147 curved (245 mm); text 159 rings, 1,308 straight (1,805 mm) / 250 curved (436 mm); tb 11 rings, 238 straight (459 mm) / 47 curved (83.5 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.9 @ (149.1, 214.0), r 1.6 @ (164.3, 226.4)",
+  "- **Words (OCR):** 18 in 12 lines: WARO-BECK SYSTEMS LTO. · [\"WBS] 'f8A:x, cel5· 2I3lIlI · 8CAF'Ie:FICUCiHClNT.&AO · QX04 · 43B-eeeo · M608 · AUDIO DISTRIBUTION · AMPLIFIER · ps · BS · tp · ht",
+  "- **Title block:** (37, 379)–(260, 414) mm: WARO-BECK SYSTEMS LTO. · [\"WBS] 'f8A:x, cel5· 2I3lIlI · 8CAF'Ie:FICUCiHClNT.&AO"
+ ]
+}

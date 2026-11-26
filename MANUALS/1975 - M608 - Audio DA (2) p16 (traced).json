@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA (2).pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/61b5244b5e4cd80c-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 13.3, 336.5, 429.0],
+ "outlines": {
+  "line": {"rings": 993, "straight": {"n": 10911, "mm": 19347.6}, "curved": {"n": 2468, "mm": 3450.0}},
+  "text": {"rings": 107, "straight": {"n": 782, "mm": 932.5}, "curved": {"n": 210, "mm": 292.2}}
+ },
+ "circles": [{"c": [155.4, 230.7], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [41.9, 351.3, 44.0, 353.6], "w": 2.2, "h": 2.4, "from": "ring"},
+  {"mm": [174.0, 321.3, 176.2, 323.4], "w": 2.2, "h": 2.2, "from": "ring"},
+  {"mm": [176.6, 320.8, 178.8, 323.2], "w": 2.2, "h": 2.4, "from": "ring"},
+  {"mm": [170.1, 232.7, 172.5, 234.9], "w": 2.4, "h": 2.2, "from": "ring"},
+  {"mm": [158.0, 87.4, 160.6, 89.8], "w": 2.6, "h": 2.4, "from": "ring"},
+  {"mm": [277.2, 64.3, 279.8, 66.9], "w": 2.6, "h": 2.6, "from": "ring"},
+  {"mm": [283.7, 39.7, 286.5, 42.1], "w": 2.8, "h": 2.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [324.7, 363.1, 334.4, 373.2], "text": "if"},
+   {"mm": [7.8, 267.7, 30.2, 270.8], "text": "~'ELC P2"},
+   {"mm": [26.8, 244.0, 35.0, 246.8], "text": "PI-7"},
+   {"mm": [25.3, 226.3, 35.0, 232.0], "text": "Pl -16"},
+   {"mm": [5.8, 191.1, 34.5, 195.9], "text": "C!-fASSIS \"\"'2-9"},
+   {"mm": [7.1, 176.0, 21.8, 181.0], "text": "~ON"},
+   {"mm": [104.3, 172.7, 108.0, 176.6], "text": "re"},
+   {"mm": [128.5, 74.5, 136.0, 78.1], "text": "10"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [142.7, 48.4, 148.3, 52.7], "text": "ec"},
+   {"mm": [144.0, 45.6, 149.2, 48.4], "text": "VL"},
+   {"mm": [134.9, 31.1, 144.0, 33.7], "text": "1:1102"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [133.6, 24.6, 146.6, 27.3], "text": "11<3W"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 13–429 mm up",
+  "- **Outlines:** line 993 rings, 10,911 straight (19,348 mm) / 2,468 curved (3,450 mm); text 107 rings, 782 straight (932 mm) / 210 curved (292 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.3 @ (155.4, 230.7)",
+  "- **Closed boxes:** 7",
+  "- **Words (OCR):** 19 in 16 lines: if · ~'ELC P2 · PI-7 · Pl -16 · C!-fASSIS \"\"'2-9 · ~ON · re · 10 · ps · BS · ec · VL"
+ ]
+}

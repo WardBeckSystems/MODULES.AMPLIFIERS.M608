@@ -1,0 +1,87 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 14-017-06-001.jpg",
+ "version": 1,
+ "trace": "_traces/f0b50c102f17de0b.svg",
+ "sheet": {
+  "number": "14-017-06-001",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1557, 2000],
+  "mm": [336.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 6.2, 336.2, 428.6],
+ "outlines": {
+  "line": {"rings": 192, "straight": {"n": 2499, "mm": 5391.8}, "curved": {"n": 635, "mm": 667.4}},
+  "text": {"rings": 110, "straight": {"n": 1395, "mm": 1717.1}, "curved": {"n": 380, "mm": 431.4}}
+ },
+ "circles": [
+  {"c": [309.9, 233.6], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [310.0, 247.2], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [91.9, 247.1], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [92.0, 233.5], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [92.0, 220.2], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [310.0, 207.2], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [310.0, 220.4], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [192.6, 233.8], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [192.7, 260.7], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [192.6, 220.6], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [91.9, 206.9], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [192.6, 247.1], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [92.0, 260.5], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [310.0, 260.6], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [192.5, 207.2], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [67.5, 247.1], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [309.9, 220.3], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [310.0, 207.1], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [309.9, 233.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [310.1, 247.1], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [192.6, 220.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [91.9, 220.2], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [192.6, 207.1], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [192.6, 247.0], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [92.1, 260.5], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [192.5, 233.7], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [192.8, 260.8], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [91.9, 206.8], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8}
+ ],
+ "boxes": [
+  {"mm": [238.3, 199.7, 318.5, 268.4], "w": 80.2, "h": 68.7, "from": "ring", "words": ["R211_", "4R213", "R215-", "R217 -"]},
+  {"mm": [120.0, 199.7, 201.7, 268.2], "w": 81.7, "h": 68.5, "from": "ring", "words": ["~R2o3", "Rzos", "R2o7", "R2os_"]},
+  {"mm": [19.0, 199.7, 100.4, 268.0], "w": 81.4, "h": 68.3, "from": "ring", "words": ["R2og -", "R2o8"]}
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [272.5, 256.9, 302.0, 263.9], "text": "R211_"},
+   {"mm": [145.7, 244.0, 177.0, 250.9], "text": "~R2o3"},
+   {"mm": [263.4, 243.5, 302.3, 251.0], "text": "4R213"},
+   {"mm": [151.8, 229.9, 175.7, 238.1], "text": "Rzos"},
+   {"mm": [270.5, 229.7, 301.6, 238.1], "text": "R215-"},
+   {"mm": [52.2, 216.3, 84.0, 224.0], "text": "R2og -"},
+   {"mm": [153.3, 217.0, 185.0, 223.9], "text": "R2o7"},
+   {"mm": [271.2, 216.1, 302.3, 224.3], "text": "R217 -"},
+   {"mm": [52.2, 203.4, 84.0, 210.3], "text": "R2o8"},
+   {"mm": [152.6, 203.4, 185.5, 210.3], "text": "R2os_"},
+   {"mm": [30.2, 181.4, 89.6, 190.0], "text": "LEFT SIDE"},
+   {"mm": [129.5, 181.1, 189.1, 191.2], "text": "RIGHT SIDE"},
+   {"mm": [247.4, 181.1, 302.9, 190.7], "text": "LEFT SIDE"},
+   {"mm": [98.7, 171.0, 113.3, 179.6], "text": "P1"},
+   {"mm": [316.3, 171.0, 332.5, 179.6], "text": "P2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 14-017-06-001, size B (assumed) 336 × 432 mm, 1557 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 6–429 mm up",
+  "- **Outlines:** line 192 rings, 2,499 straight (5,392 mm) / 635 curved (667 mm); text 110 rings, 1,395 straight (1,717 mm) / 380 curved (431 mm)",
+  "- **Circles and arcs:** 28 circles, 0 arcs; largest r 3.1 @ (309.9, 233.6), r 3.1 @ (310.0, 247.2), r 3.1 @ (91.9, 247.1), r 3.0 @ (92.0, 233.5)",
+  "- **Closed boxes:** 3; named: R211_ 4R213 R215- R217 -; ~R2o3 Rzos R2o7 R2os_; R2og - R2o8",
+  "- **Words (OCR):** 16 in 15 lines: R211_ · ~R2o3 · 4R213 · Rzos · R215- · R2og - · R2o7 · R217 - · R2o8 · R2os_ · LEFT SIDE · RIGHT SIDE"
+ ]
+}

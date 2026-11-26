@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA (2).pdf",
+ "page": 14,
+ "version": 1,
+ "trace": "_traces/61b5244b5e4cd80c-p14.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "14", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 7.8, 336.4, 429.7],
+ "outlines": {
+  "line": {"rings": 140, "straight": {"n": 2600, "mm": 6583.6}, "curved": {"n": 536, "mm": 881.4}},
+  "text": {"rings": 105, "straight": {"n": 1237, "mm": 1987.4}, "curved": {"n": 293, "mm": 469.4}}
+ },
+ "circles": [
+  {"c": [213.0, 230.1], "r": 5.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [212.8, 190.3], "r": 5.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [212.5, 150.6], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [245.2, 230.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [290.2, 320.4, 335.9, 343.9], "text": "iI E---v,\"v-"},
+   {"mm": [77.1, 295.4, 106.4, 333.3], "text": "81"},
+   {"mm": [24.4, 317.8, 66.7, 323.1], "text": "10 TO 14d8m"},
+   {"mm": [30.7, 310.0, 59.4, 315.3], "text": "100 OHMS"},
+   {"mm": [43.8, 154.6, 65.6, 159.9], "text": "l1 SVAC"},
+   {"mm": [46.6, 146.8, 60.9, 152.1], "text": "10 Hr"},
+   {"mm": [46.6, 139.3, 61.1, 144.5], "text": "1SVA"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 8–430 mm up",
+  "- **Outlines:** line 140 rings, 2,600 straight (6,584 mm) / 536 curved (881 mm); text 105 rings, 1,237 straight (1,987 mm) / 293 curved (469 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 5.8 @ (213.0, 230.1), r 5.7 @ (212.8, 190.3), r 5.6 @ (212.5, 150.6), r 2.3 @ (245.2, 230.0)",
+  "- **Words (OCR):** 17 in 11 lines: iI E---v,\"v- · 81 · 10 TO 14d8m · 100 OHMS · l1 SVAC · 10 Hr · 1SVA · ps · BS · tp · ht"
+ ]
+}

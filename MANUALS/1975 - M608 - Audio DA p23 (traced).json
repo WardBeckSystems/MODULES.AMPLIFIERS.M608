@@ -1,0 +1,104 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA.pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/fec84e1bea90b234-p23.svg",
+ "sheet": {
+  "number": "608-06-002",
+  "title": "Audio Distribution Amplifier Component Layout",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 1.5, 335.8, 431.4],
+ "outlines": {
+  "line": {"rings": 474, "straight": {"n": 5243, "mm": 7709.9}, "curved": {"n": 1367, "mm": 1331.8}},
+  "text": {"rings": 130, "straight": {"n": 1484, "mm": 1542.6}, "curved": {"n": 420, "mm": 501.3}},
+  "tb": {"rings": 110, "straight": {"n": 638, "mm": 521.8}, "curved": {"n": 149, "mm": 139.8}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [322.6, 68.2, 334.2, 74.1], "w": 11.7, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [232.1, 66.9, 244.4, 72.8], "w": 12.3, "h": 5.9, "from": "ring", "in_title_block": true},
+  {"mm": [245.3, 67.1, 257.6, 72.8], "w": 12.3, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [322.6, 61.7, 334.5, 67.6], "w": 11.9, "h": 5.9, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [245.3, 60.7, 257.6, 66.3], "w": 12.3, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [232.3, 60.5, 244.7, 66.1], "w": 12.4, "h": 5.6, "from": "ring", "in_title_block": true},
+  {
+   "mm": [232.3, 16.2, 334.3, 43.0],
+   "w": 102.0,
+   "h": 26.8,
+   "from": "ring",
+   "words": ["M608", "AMPLIFIER", "AUDIO", "DISTRIBUTION", "LAYOUT", "COMPONENT"],
+   "in_title_block": true
+  },
+  {"mm": [245.7, 3.0, 309.4, 16.0], "w": 63.7, "h": 13.0, "from": "ring", "words": ["608-06-002"], "in_title_block": true},
+  {"mm": [232.5, 3.0, 245.0, 15.3], "w": 12.5, "h": 12.3, "from": "ring", "in_title_block": true},
+  {"mm": [200.1, 2.5, 232.1, 15.1], "w": 32.0, "h": 12.6, "from": "ring", "words": ["SCALE"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [13.4, 335.1, 32.4, 341.6], "text": "T2c4"},
+   {"mm": [58.5, 304.2, 74.9, 311.2], "text": "T201"},
+   {"mm": [106.7, 245.9, 124.6, 251.2], "text": "T202"},
+   {"mm": [148.8, 133.6, 164.5, 138.9], "text": "R2o1"},
+   {"mm": [114.0, 60.9, 130.2, 67.4], "text": "F201"},
+   {"mm": [232.5, 60.7, 257.4, 66.2], "text": "Issu DATE"},
+   {"mm": [281.1, 61.3, 300.5, 66.6], "text": "REVISION"},
+   {"mm": [324.7, 61.7, 332.9, 66.5], "text": "APP"},
+   {"mm": [248.9, 47.9, 293.8, 54.4], "text": "WARO-BECK"},
+   {"mm": [295.4, 48.6, 330.3, 55.1], "text": "BYSTEMS"},
+   {"mm": [208.3, 45.8, 240.3, 53.9], "text": "WBS"},
+   {"mm": [273.8, 33.5, 290.0, 39.9], "text": "M608"},
+   {"mm": [243.3, 25.0, 296.9, 32.7], "text": "AUDIO DISTRIBUTION"},
+   {"mm": [299.9, 26.8, 324.1, 33.2], "text": "AMPLIFIER"},
+   {"mm": [200.6, 22.5, 210.9, 27.7], "text": "CKD:"},
+   {"mm": [254.8, 17.7, 288.9, 24.7], "text": "COMPONENT"},
+   {"mm": [291.2, 18.1, 312.0, 26.1], "text": "LAYOUT"},
+   {"mm": [201.2, 16.0, 209.9, 20.8], "text": "App"},
+   {"mm": [208.8, 9.9, 222.8, 15.2], "text": "SCALE"},
+   {"mm": [316.1, 11.7, 328.4, 16.9], "text": "ISSUE"},
+   {"mm": [259.7, 6.0, 295.8, 13.0], "text": "608-06-002"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [193.9, 1.3, 336.4, 75.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "Issu DATE",
+   "REVISION",
+   "APP",
+   "WARO-BECK",
+   "BYSTEMS",
+   "WBS",
+   "M608",
+   "AUDIO DISTRIBUTION",
+   "AMPLIFIER",
+   "CKD:",
+   "COMPONENT",
+   "LAYOUT",
+   "App",
+   "SCALE",
+   "ISSUE",
+   "608-06-002"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 608-06-002, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 2–431 mm up",
+  "- **Outlines:** line 474 rings, 5,243 straight (7,710 mm) / 1,367 curved (1,332 mm); text 130 rings, 1,484 straight (1,543 mm) / 420 curved (501 mm); tb 110 rings, 638 straight (522 mm) / 149 curved (140 mm)",
+  "- **Closed boxes:** 10 (10 in the title block)",
+  "- **Words (OCR):** 22 in 21 lines: T2c4 · T201 · T202 · R2o1 · F201 · Issu DATE · REVISION · APP · WARO-BECK · BYSTEMS · WBS · M608",
+  "- **Title block:** (194, 1)–(336, 75) mm: Issu DATE · REVISION · APP · WARO-BECK · BYSTEMS · WBS · M608 · AUDIO DISTRIBUTION · AMPLIFIER · CKD: · COMPONENT · LAYOUT · App · SCALE · ISSUE · 608-06-002"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-06-002.jpg",
+ "version": 1,
+ "trace": "_traces/8f8a7c249a7677d1.svg",
+ "sheet": {
+  "number": "608-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1557, 2000],
+  "mm": [336.2, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 8.9, 336.2, 427.1],
+ "outlines": {
+  "line": {"rings": 1183, "straight": {"n": 13406, "mm": 19762.0}, "curved": {"n": 3110, "mm": 3036.2}},
+  "text": {"rings": 71, "straight": {"n": 586, "mm": 582.0}, "curved": {"n": 180, "mm": 212.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [15.3, 373.3, 36.9, 378.6], "text": "14-017"},
+   {"mm": [265.8, 363.1, 285.4, 370.1], "text": "T2o3"},
+   {"mm": [305.7, 335.5, 324.7, 340.8], "text": "T204"},
+   {"mm": [17.1, 283.7, 26.1, 289.0], "text": "P2"},
+   {"mm": [13.2, 256.1, 22.5, 261.3], "text": "R9"},
+   {"mm": [24.6, 230.8, 36.5, 236.1], "text": "R12"},
+   {"mm": [46.6, 210.3, 59.2, 215.6], "text": "R23"},
+   {"mm": [67.8, 182.2, 80.3, 187.5], "text": "RA1"},
+   {"mm": [78.8, 150.7, 97.2, 157.2], "text": "8-116"},
+   {"mm": [111.0, 108.8, 123.3, 114.1], "text": "TP1"},
+   {"mm": [130.2, 84.0, 147.5, 88.8], "text": "8-117"},
+   {"mm": [166.2, 55.1, 180.7, 61.5], "text": "Ds2"},
+   {"mm": [190.0, 39.9, 204.0, 46.4], "text": "D53"},
+   {"mm": [221.5, 23.5, 234.5, 28.8], "text": "Ds1"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 608-06-002, size B (assumed) 336 × 432 mm, 1557 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 9–427 mm up",
+  "- **Outlines:** line 1,183 rings, 13,406 straight (19,762 mm) / 3,110 curved (3,036 mm); text 71 rings, 586 straight (582 mm) / 180 curved (213 mm)",
+  "- **Words (OCR):** 14 in 14 lines: 14-017 · T2o3 · T204 · P2 · R9 · R12 · R23 · RA1 · 8-116 · TP1 · 8-117 · Ds2"
+ ]
+}

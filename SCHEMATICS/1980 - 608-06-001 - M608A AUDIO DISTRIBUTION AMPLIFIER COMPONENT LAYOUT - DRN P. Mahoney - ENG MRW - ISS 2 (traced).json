@@ -1,0 +1,111 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/SCHEMATICS/1980 - 608-06-001 - M608A AUDIO DISTRIBUTION AMPLIFIER COMPONENT LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/8411d0a324052b6f.svg",
+ "sheet": {
+  "number": "B 608-06-001",
+  "title": "M608A / AUDIO DISTRIBUTION AMPLIFIER / COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1292],
+  "mm": [431.8, 278.9],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.2, 431.8, 278.5],
+ "outlines": {
+  "line": {"rings": 1111, "straight": {"n": 9254, "mm": 17326.2}, "curved": {"n": 1640, "mm": 1597.1}},
+  "text": {"rings": 201, "straight": {"n": 1343, "mm": 1208.2}, "curved": {"n": 416, "mm": 470.6}},
+  "tb": {"rings": 50, "straight": {"n": 326, "mm": 325.8}, "curved": {"n": 105, "mm": 107.9}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [379.5, 43.0, 420.8, 46.9], "w": 41.3, "h": 3.9, "from": "ring", "words": ["3725"], "in_title_block": true},
+  {"mm": [362.7, 42.7, 370.9, 46.6], "w": 8.2, "h": 3.9, "from": "ring", "in_title_block": true},
+  {"mm": [421.2, 43.0, 429.2, 46.6], "w": 8.0, "h": 3.7, "from": "ring", "in_title_block": true},
+  {"mm": [371.3, 38.6, 379.3, 42.5], "w": 8.0, "h": 3.9, "from": "ring", "in_title_block": true},
+  {"mm": [379.6, 38.6, 421.0, 42.5], "w": 41.5, "h": 3.9, "from": "ring", "in_title_block": true},
+  {"mm": [421.2, 38.6, 429.2, 42.5], "w": 8.0, "h": 3.9, "from": "ring", "in_title_block": true},
+  {"mm": [362.7, 38.6, 370.9, 42.3], "w": 8.2, "h": 3.7, "from": "ring", "in_title_block": true},
+  {"mm": [342.0, 26.7, 429.2, 38.2], "w": 87.2, "h": 11.5, "from": "ring", "words": ["WBS", "BECk systeMS", "WAAD"], "in_title_block": true},
+  {"mm": [342.0, 22.6, 353.9, 26.6], "w": 11.9, "h": 4.0, "from": "ring", "words": ["DRNRE"], "in_title_block": true},
+  {
+   "mm": [362.9, 10.1, 429.2, 26.6],
+   "w": 66.3,
+   "h": 16.4,
+   "from": "ring",
+   "words": ["M608A", "AUDIO   DISTRIBUTION", "AMPLIFIER", "COMPONENT", "LAYOUT"],
+   "in_title_block": true
+  },
+  {"mm": [342.0, 18.3, 362.5, 22.2], "w": 20.5, "h": 3.9, "from": "ring", "in_title_block": true},
+  {"mm": [342.0, 14.2, 362.5, 17.9], "w": 20.5, "h": 3.7, "from": "ring", "in_title_block": true},
+  {"mm": [341.9, 9.9, 362.5, 13.8], "w": 20.6, "h": 3.9, "from": "ring", "in_title_block": true},
+  {"mm": [413.0, 1.9, 429.2, 9.8], "w": 16.2, "h": 7.8, "from": "ring", "words": ["ISSUE"], "in_title_block": true},
+  {"mm": [362.9, 1.7, 370.9, 9.7], "w": 8.0, "h": 8.0, "from": "ring", "in_title_block": true},
+  {"mm": [371.3, 1.7, 412.8, 9.7], "w": 41.5, "h": 8.0, "from": "ring", "words": ["608-06", "001"], "in_title_block": true},
+  {"mm": [342.0, 1.7, 362.5, 9.5], "w": 20.5, "h": 7.8, "from": "ring", "words": ["SCALE"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 31,
+  "lines": [
+   {"mm": [36.9, 242.5, 53.8, 246.3], "text": "14-017A -"},
+   {"mm": [197.8, 235.5, 209.6, 239.4], "text": "T2o3"},
+   {"mm": [225.8, 217.6, 235.5, 220.7], "text": "204"},
+   {"mm": [252.8, 197.1, 262.5, 201.0], "text": "T201"},
+   {"mm": [283.0, 158.9, 294.5, 162.7], "text": "T202"},
+   {"mm": [41.9, 149.8, 49.9, 153.7], "text": "R12"},
+   {"mm": [55.9, 136.7, 63.9, 140.5], "text": "R23"},
+   {"mm": [69.3, 118.5, 77.5, 122.4], "text": "R41"},
+   {"mm": [76.9, 98.5, 88.3, 101.6], "text": "8-116"},
+   {"mm": [309.6, 86.1, 319.7, 90.0], "text": "R2o1"},
+   {"mm": [96.9, 71.0, 102.8, 74.1], "text": "TP"},
+   {"mm": [371.1, 43.0, 379.8, 46.1], "text": "10/80"},
+   {"mm": [394.2, 43.0, 405.0, 46.8], "text": "3725"},
+   {"mm": [132.6, 36.5, 141.6, 40.3], "text": "D32"},
+   {"mm": [286.9, 39.7, 297.1, 43.6], "text": "F201"},
+   {"mm": [362.9, 38.6, 379.1, 41.8], "text": "ISSUE DATE"},
+   {"mm": [346.7, 30.0, 388.4, 34.8], "text": "WBS WAAD"},
+   {"mm": [389.5, 30.0, 426.6, 34.3], "text": "BECk systeMS"},
+   {"mm": [148.1, 26.8, 156.7, 30.6], "text": "D53"},
+   {"mm": [342.4, 22.5, 352.8, 26.3], "text": "DRNRE"},
+   {"mm": [389.9, 20.7, 402.4, 25.0], "text": "M608A"},
+   {"mm": [167.5, 15.3, 176.2, 19.2], "text": "D51"},
+   {"mm": [370.1, 16.0, 422.9, 20.3], "text": "AUDIO   DISTRIBUTION AMPLIFIER"},
+   {"mm": [378.0, 11.0, 414.7, 15.3], "text": "COMPONENT LAYOUT"},
+   {"mm": [347.8, 6.3, 357.1, 9.4], "text": "SCALE"},
+   {"mm": [417.8, 6.9, 424.9, 9.1], "text": "ISSUE"},
+   {"mm": [380.8, 3.5, 403.5, 7.8], "text": "608-06 001"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [333.8, 0.6, 431.8, 47.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "10/80",
+   "3725",
+   "ISSUE DATE",
+   "WBS WAAD",
+   "BECk systeMS",
+   "DRNRE",
+   "M608A",
+   "AUDIO   DISTRIBUTION AMPLIFIER",
+   "COMPONENT LAYOUT",
+   "SCALE",
+   "ISSUE",
+   "608-06 001"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B 608-06-001, size B 432 × 279 mm, 2000 × 1292 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 0–278 mm up",
+  "- **Outlines:** line 1,111 rings, 9,254 straight (17,326 mm) / 1,640 curved (1,597 mm); text 201 rings, 1,343 straight (1,208 mm) / 416 curved (471 mm); tb 50 rings, 326 straight (326 mm) / 105 curved (108 mm)",
+  "- **Closed boxes:** 17 (17 in the title block)",
+  "- **Words (OCR):** 31 in 27 lines: 14-017A - · T2o3 · 204 · T201 · T202 · R12 · R23 · R41 · 8-116 · R2o1 · TP · 10/80",
+  "- **Title block:** (334, 1)–(432, 47) mm: 10/80 · 3725 · ISSUE DATE · WBS WAAD · BECk systeMS · DRNRE · M608A · AUDIO   DISTRIBUTION AMPLIFIER · COMPONENT LAYOUT · SCALE · ISSUE · 608-06 001"
+ ]
+}

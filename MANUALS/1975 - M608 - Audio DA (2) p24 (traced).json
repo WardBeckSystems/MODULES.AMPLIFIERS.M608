@@ -1,0 +1,78 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA (2).pdf",
+ "page": 24,
+ "version": 1,
+ "trace": "_traces/61b5244b5e4cd80c-p24.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "24", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 3.5, 336.4, 424.2],
+ "outlines": {
+  "line": {"rings": 988, "straight": {"n": 10913, "mm": 15952.0}, "curved": {"n": 2608, "mm": 4189.5}},
+  "text": {"rings": 35, "straight": {"n": 399, "mm": 537.7}, "curved": {"n": 95, "mm": 180.2}}
+ },
+ "circles": [
+  {"c": [322.0, 211.3], "r": 12.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.3},
+  {"c": [321.8, 298.5], "r": 12.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [321.4, 242.9], "r": 12.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [321.2, 329.2], "r": 11.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [95.5, 274.3], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [192.0, 282.4], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [193.2, 221.4], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [240.7, 221.5], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [324.4, 194.0], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [97.6, 220.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [208.0, 261.8], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [232.3, 266.5], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [250.9, 277.6], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [257.6, 262.3], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [117.2, 235.0], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [220.0, 332.1, 250.4, 343.1], "w": 30.4, "h": 11.0, "from": "ring", "words": ["~OK"]},
+  {"mm": [171.8, 331.8, 202.7, 342.8], "w": 30.9, "h": 11.0, "from": "ring", "words": ["1;:1.2\"3", "SOKI"]},
+  {"mm": [76.0, 331.4, 107.5, 342.8], "w": 31.5, "h": 11.4, "from": "ring"},
+  {"mm": [124.1, 331.6, 155.7, 342.6], "w": 31.6, "h": 11.0, "from": "ring"},
+  {"mm": [173.4, 211.6, 202.3, 241.9], "w": 28.9, "h": 30.3, "from": "ring"},
+  {"mm": [221.9, 211.8, 250.0, 241.8], "w": 28.1, "h": 30.0, "from": "ring"},
+  {"mm": [125.4, 211.4, 155.1, 241.6], "w": 29.6, "h": 30.2, "from": "ring"},
+  {"mm": [77.6, 210.7, 106.6, 241.4], "w": 29.0, "h": 30.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [83.6, 344.6, 94.3, 350.8], "text": "\\4F"},
+   {"mm": [133.9, 345.0, 144.2, 351.0], "text": "LF"},
+   {"mm": [172.3, 345.2, 204.5, 351.0], "text": "OF\"F S'ET"},
+   {"mm": [216.5, 345.4, 250.7, 351.4], "text": "OFF seT"},
+   {"mm": [234.9, 331.0, 248.5, 343.4], "text": "~OK"},
+   {"mm": [171.2, 332.9, 204.2, 338.9], "text": "1;:1.2\"3 SOKI"},
+   {"mm": [213.3, 90.9, 324.9, 100.5], "text": "COMPO~ENT SIDE"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [192.0, 282.4], "r": 1.4, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 4–424 mm up",
+  "- **Outlines:** line 988 rings, 10,913 straight (15,952 mm) / 2,608 curved (4,190 mm); text 35 rings, 399 straight (538 mm) / 95 curved (180 mm)",
+  "- **Circles and arcs:** 15 circles, 0 arcs; largest r 12.6 @ (322.0, 211.3), r 12.5 @ (321.8, 298.5), r 12.1 @ (321.4, 242.9), r 11.4 @ (321.2, 329.2)",
+  "- **Closed boxes:** 8; named: ~OK; 1;:1.2\"3 SOKI",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 15 in 11 lines: \\4F · LF · OF\"F S'ET · OFF seT · ~OK · 1;:1.2\"3 SOKI · COMPO~ENT SIDE · ps · BS · tp · ht"
+ ]
+}

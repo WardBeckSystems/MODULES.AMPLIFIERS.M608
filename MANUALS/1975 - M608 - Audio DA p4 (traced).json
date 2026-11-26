@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA.pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/fec84e1bea90b234-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 336.4, 423.8],
+ "outlines": {
+  "line": {"rings": 66, "straight": {"n": 927, "mm": 3452.2}, "curved": {"n": 161, "mm": 244.7}},
+  "text": {"rings": 275, "straight": {"n": 2019, "mm": 2223.5}, "curved": {"n": 622, "mm": 956.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 41,
+  "lines": [
+   {"mm": [126.7, 408.5, 145.1, 415.4], "text": "LTD."},
+   {"mm": [138.2, 366.6, 194.7, 373.6], "text": "TECHNICAL DATA"},
+   {"mm": [101.9, 353.6, 190.9, 360.6], "text": "M6ze Audi0 Distribution"},
+   {"mm": [193.7, 353.6, 230.4, 360.6], "text": "AMPLIFTER"},
+   {"mm": [43.2, 313.3, 113.1, 321.4], "text": "Power Requirements:"},
+   {"mm": [147.9, 313.5, 190.6, 321.1], "text": "115 volts ac"},
+   {"mm": [207.3, 313.1, 233.6, 320.7], "text": "10% , 60"},
+   {"mm": [234.7, 312.6, 271.2, 321.5], "text": "Hz, 20 VA _"},
+   {"mm": [43.0, 300.5, 117.7, 307.7], "text": "Ambient Temperature:"},
+   {"mm": [165.2, 299.9, 229.7, 307.8], "text": "60  degrees Celsius"},
+   {"mm": [43.6, 287.6, 83.6, 294.5], "text": "Diferisions:"},
+   {"mm": [147.9, 287.6, 207.0, 294.1], "text": "3.4\" wide 3.4\""},
+   {"mm": [209.4, 286.7, 272.2, 294.2], "text": "nign 63.7\" deep"},
+   {"mm": [147.9, 281.1, 172.3, 287.6], "text": "(83 mm"},
+   {"mm": [183.5, 281.1, 204.2, 287.6], "text": "83 Mm"},
+   {"mm": [215.3, 281.1, 227.1, 287.6], "text": "336"},
+   {"mm": [229.3, 280.7, 243.3, 287.6], "text": "mm)"},
+   {"mm": [43.6, 267.3, 69.5, 274.7], "text": "Weight:"},
+   {"mm": [147.9, 267.7, 178.1, 274.7], "text": "11.5 Lbs"},
+   {"mm": [180.7, 267.3, 227.3, 274.7], "text": "(5.2 Kg) ne:."},
+   {"mm": [160.2, 17.3, 172.1, 23.7], "text": "1-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–424 mm up",
+  "- **Outlines:** line 66 rings, 927 straight (3,452 mm) / 161 curved (245 mm); text 275 rings, 2,019 straight (2,224 mm) / 622 curved (957 mm)",
+  "- **Words (OCR):** 41 in 21 lines: LTD. · TECHNICAL DATA · M6ze Audi0 Distribution · AMPLIFTER · Power Requirements: · 115 volts ac · 10% , 60 · Hz, 20 VA _ · Ambient Temperature: · 60  degrees Celsius · Diferisions: · 3.4\" wide 3.4\""
+ ]
+}

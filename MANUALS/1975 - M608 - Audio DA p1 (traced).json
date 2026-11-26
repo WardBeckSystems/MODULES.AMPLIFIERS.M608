@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/fec84e1bea90b234-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 334.3, 424.3],
+ "outlines": {
+  "line": {"rings": 39, "straight": {"n": 759, "mm": 3342.5}, "curved": {"n": 106, "mm": 172.7}},
+  "text": {"rings": 115, "straight": {"n": 1352, "mm": 1913.3}, "curved": {"n": 324, "mm": 573.7}},
+  "tb": {"rings": 1, "straight": {"n": 23, "mm": 25.8}, "curved": {"n": 2, "mm": 2.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [118.7, 397.3, 281.1, 406.3], "text": "WARD-BECK systeMS LTD_"},
+   {"mm": [48.8, 388.0, 252.6, 402.6], "text": "WES 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTAAIO"},
+   {"mm": [117.2, 386.7, 169.5, 392.2], "text": "TeleX: 065-25389"},
+   {"mm": [204.7, 386.7, 278.5, 392.2], "text": "TeLEPHONE: 418/438-8330"},
+   {"mm": [147.2, 220.6, 189.3, 235.3], "text": "M608"},
+   {"mm": [127.8, 209.4, 207.5, 218.1], "text": "AUDIO DISTRIBUTION"},
+   {"mm": [148.3, 200.8, 189.3, 208.9], "text": "AMPLIFIER"}
+  ]
+ },
+ "title_block": {
+  "mm": [111.9, 389.1, 261.4, 415.0],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK systeMS LTD_", "WES 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTAAIO", "TeleX: 065-25389", "TeLEPHONE: 418/438-8330"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 0–424 mm up",
+  "- **Outlines:** line 39 rings, 759 straight (3,342 mm) / 106 curved (173 mm); text 115 rings, 1,352 straight (1,913 mm) / 324 curved (574 mm); tb 1 rings, 23 straight (25.8 mm) / 2 curved (2.4 mm)",
+  "- **Words (OCR):** 10 in 7 lines: WARD-BECK systeMS LTD_ · WES 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTAAIO · TeleX: 065-25389 · TeLEPHONE: 418/438-8330 · M608 · AUDIO DISTRIBUTION · AMPLIFIER",
+  "- **Title block:** (112, 389)–(261, 415) mm: WARD-BECK systeMS LTD_ · WES 841 PAOGRESS AVENUE, SCAABOAOUGH; ONTAAIO · TeleX: 065-25389 · TeLEPHONE: 418/438-8330"
+ ]
+}

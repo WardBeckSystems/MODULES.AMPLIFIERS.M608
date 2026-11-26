@@ -1,0 +1,107 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M608/MANUALS/1975 - M608 - Audio DA.pdf",
+ "page": 15,
+ "version": 1,
+ "trace": "_traces/fec84e1bea90b234-p15.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "15", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 3.5, 336.4, 427.9],
+ "outlines": {
+  "line": {"rings": 184, "straight": {"n": 2756, "mm": 7126.7}, "curved": {"n": 540, "mm": 767.3}},
+  "text": {"rings": 206, "straight": {"n": 1930, "mm": 2714.6}, "curved": {"n": 544, "mm": 920.8}},
+  "tb": {"rings": 37, "straight": {"n": 292, "mm": 480.0}, "curved": {"n": 66, "mm": 86.5}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [209.0, 98.6, 307.2, 108.0], "w": 98.2, "h": 9.3, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [308.3, 99.1, 326.7, 108.0], "w": 18.4, "h": 8.9, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [188.9, 98.9, 207.9, 107.7], "w": 19.0, "h": 8.9, "from": "ring", "in_title_block": true},
+  {"mm": [168.6, 98.7, 187.8, 107.5], "w": 19.2, "h": 8.9, "from": "ring", "in_title_block": true},
+  {"mm": [119.0, 70.6, 326.7, 97.6], "w": 207.7, "h": 27.0, "from": "ring", "words": ["WBS", "SYSTEMS", "WARD-BECK"], "in_title_block": true},
+  {
+   "mm": [168.6, 30.7, 326.8, 70.4],
+   "w": 158.3,
+   "h": 39.7,
+   "from": "ring",
+   "words": ["M608", "DISTRIBUTION", "AMPLIFIER", "AUDIO", "FUNCTIONAL", "DIAGRAM"],
+   "in_title_block": true
+  },
+  {"mm": [118.7, 50.3, 167.5, 59.4], "w": 48.8, "h": 9.1, "from": "ring", "words": ["ENG. MRN /o/?8"], "in_title_block": true},
+  {"mm": [118.7, 40.4, 167.5, 49.2], "w": 48.8, "h": 8.9, "from": "ring", "words": ["CKD"], "in_title_block": true},
+  {"mm": [118.7, 30.2, 167.5, 39.3], "w": 48.8, "h": 9.1, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [288.4, 11.2, 326.2, 30.4], "w": 37.8, "h": 19.2, "from": "ring", "words": ["ISSUE"]},
+  {"mm": [188.8, 10.3, 287.4, 30.0], "w": 98.6, "h": 19.7, "from": "ring", "words": ["608-01-001"]},
+  {"mm": [168.6, 10.1, 187.7, 29.4], "w": 19.1, "h": 19.3, "from": "ring"},
+  {"mm": [118.7, 9.8, 167.5, 29.1], "w": 48.8, "h": 19.4, "from": "ring", "words": ["SCALE"]}
+ ],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [8.2, 340.7, 30.2, 347.6], "text": "(-6dB)"},
+   {"mm": [68.4, 284.6, 99.1, 291.5], "text": "Outputs"},
+   {"mm": [72.8, 276.8, 96.1, 283.7], "text": "+8dBm"},
+   {"mm": [68.4, 268.8, 98.7, 275.8], "text": "600 OHmS"},
+   {"mm": [8.2, 200.8, 29.8, 207.7], "text": "(-6d8)"},
+   {"mm": [168.8, 99.3, 207.0, 107.0], "text": "ISSUE |DATE"},
+   {"mm": [243.8, 100.2, 272.9, 107.1], "text": "REVISION"},
+   {"mm": [310.7, 99.7, 324.1, 106.7], "text": "APP"},
+   {"mm": [131.9, 77.5, 263.2, 89.5], "text": "WBS WARD-BECK"},
+   {"mm": [266.0, 80.1, 320.4, 88.3], "text": "SYSTEMS"},
+   {"mm": [119.8, 60.9, 134.3, 68.6], "text": "DRN"},
+   {"mm": [232.7, 56.3, 257.6, 65.9], "text": "M608"},
+   {"mm": [119.8, 50.7, 165.2, 58.9], "text": "ENG. MRN /o/?8"},
+   {"mm": [215.5, 44.5, 311.3, 54.8], "text": "DISTRIBUTION AMPLIFIER"},
+   {"mm": [186.1, 45.3, 212.0, 54.0], "text": "AUDIO"},
+   {"mm": [119.8, 41.0, 134.9, 48.0], "text": "CKD"},
+   {"mm": [200.4, 33.2, 294.5, 43.1], "text": "FUNCTIONAL DIAGRAM"},
+   {"mm": [119.8, 31.3, 133.9, 37.8], "text": "APP"},
+   {"mm": [132.1, 22.0, 153.3, 29.0], "text": "SCALE"},
+   {"mm": [297.7, 23.3, 317.2, 30.3], "text": "ISSUE"},
+   {"mm": [211.2, 15.1, 263.0, 24.7], "text": "608-01-001"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [113.1, 13.5, 331.0, 115.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE |DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK",
+   "SYSTEMS",
+   "DRN",
+   "M608",
+   "ENG. MRN /o/?8",
+   "DISTRIBUTION AMPLIFIER",
+   "AUDIO",
+   "CKD",
+   "FUNCTIONAL DIAGRAM",
+   "APP",
+   "SCALE",
+   "ISSUE",
+   "608-01-001"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 4–428 mm up",
+  "- **Outlines:** line 184 rings, 2,756 straight (7,127 mm) / 540 curved (767 mm); text 206 rings, 1,930 straight (2,715 mm) / 544 curved (921 mm); tb 37 rings, 292 straight (480 mm) / 66 curved (86.5 mm)",
+  "- **Closed boxes:** 13 (9 in the title block); named: ISSUE; 608-01-001; SCALE",
+  "- **Words (OCR):** 24 in 21 lines: (-6dB) · Outputs · +8dBm · 600 OHmS · (-6d8) · ISSUE |DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN · M608",
+  "- **Title block:** (113, 14)–(331, 116) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK · SYSTEMS · DRN · M608 · ENG. MRN /o/?8 · DISTRIBUTION AMPLIFIER · AUDIO · CKD · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 608-01-001"
+ ]
+}
