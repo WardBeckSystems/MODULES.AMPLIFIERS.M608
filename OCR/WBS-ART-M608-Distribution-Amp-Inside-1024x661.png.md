@@ -72,3 +72,5 @@ RpKaUdiOCZ
  ]
 }
 ```
+
+- **Upgraded:** replaced by the higher-resolution copy `WBS - ART - M608 - Inside.png` (_stage), 2026-11-26
