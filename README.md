@@ -13,6 +13,173 @@ Ward-Beck Systems M608, 1975|8. Wiki page: [M608 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 64 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M608 - DOC - US Sales Brochure pg 25.jpg](MANUALS/19xx%20-%20M608%20-%20DOC%20-%20US%20Sales%20Brochure%20pg%2025.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Dimensions** | 3.4 &quot; wide X 3.4&quot; high X 13.7&quot; deep (83 mm X 83 mm X 336 mm). |
+| **Weight** | 6.5 pounds (3 kg) net. |
+
+## Circuit description
+
+From [1975 - M608 - Audio DA (2).pdf](MANUALS/1975%20-%20M608%20-%20Audio%20DA%20(2).pdf) pages 5-10 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+M6CB AUDIO DIS TR IBl!TINI AMPLlF'&quot;IER
+
+,.~., _ ~ ~.;...::: ~:: t;;r:b...:T,;r, A&quot;' ~;::': e.-1 ~ &quot; ~::'_I'&gt; c ·,. &quot;,- ~::: i~ ~ ~: ~' I~:.&quot;&quot;, the 115V a c 60 Hz power line. The modular plug Tn unit i&quot; o e &quot; igned to bridge e e r-c ssa single audios ou r&lt;::e and provides 8 ind i v i dual l y 1so late d, trans former coupled, 600 ohm outputs.
+
+Thea ud io input appears a t pins P 2-8 and P2~ 16 on the rear module connector. It i s connected tot h e primary o f T2 01, which iss trapped top resent ani n put impedance 01 30,000 ohms or great e r tot hes our c e. The Input Shield connects toP 2 _7. These c ond a r y o f T201 connects tot h e 8_1 16 amplifier card atp ins Ian d 2.
+
+An overload protection circuit cons ls ting of R2, R3 and CRI through CR4 prevents excessive input levels o r voltage transients from pot e n tia l ly damaging thea mp l l fie r.
+
+Thea u d i o &quot; i g n,, 1 is coupled through Cl to C4 to the pre-amp lif ier section, consisting of Ul and V2. R12 adjusts gain differences between VIand U2 optimiZing input longitudinal balance a t low frequencies. R9 provides longitudinal balance &quot; d just men t for high f r e q u e n c ie s.
+
+The g&quot; in of the M608 is d e te....&quot; in ed by the setting of s e ns i t i v i t y control R201, which cont ro l&quot; the f.... d b &quot; ck around U2. The overall amp l i fie r g a ln i sad j u stable from +18 to -6 dB.
+
+The pr e amplifier outputs ig n ali s coupled through C9 tot h e lower half oft h e output pewee amp l if i e r, comprisIng of U3, 01, 02, 03, Q4 and 05. The second o r upper half of the output power amp l l fle r consists o f V4, C6, 0 7, C8, 0 9 and Cl 0.
+
+Thea c t i v e l y balanced e oe tc output appears lOt pins 18 &quot; n d 19 of the 8_116 amplifier card.
+
+R23 and R41 &quot; d just the &quot;mpli/i er output o fh et volt &quot;ge s. 0 volts
+
++/-0.5 mV.
+
+M6Ol! AUDIO OI S';';I Bu, ICN AM? L1F IE;;:
+
+.~....;t • ••. ~....... r.~tl...~ I.;: •.~ &quot;.. I,;.&quot;,t a,;&gt;; ~ ~:0.&quot;.;1:i wi: 1&quot;,.. 8 -1 16 a mpl lfl.. r card is conn ec:led 10 Ine p r ima.. y 0 1 Ih e two ou tp u l t &quot;.nstorm era ssemb lies T20J and T 204.
+
+Each.. ss~ l y consisls ot four sep.. rate trans forme.. s. Pro v i dins.. t o tai of 8 trar: s ' or:ne r CO&lt;.l;&gt;le &lt;j OUIP u IS, eaC;, camp l e l,, ' y l sol a l:!d trom e a c n c.n.....
+
+The seeee e e.. y OUlpUI Sot T20J.nd T204...... conn.,;le d 10..es isto.. is ola ll o n n e l &quot;&quot;&lt;lt&quot;k s 00'l Ih e 8_ 118 p.. l n led c i &quot; cu it card assemblies. The resist i ve values a &quot; e such In.. 1 a 600 sour&lt;:e impedance Is pre~l.. d a leach of I he a OUlpul s. Four OUlpulS appear on r.. ar module cco oe c re rPI lind another four 01'1 Ine e e rmodu le CO&lt;'1ne&lt;:tor P2.
+
+Tnr ee LEO Indl cli lor s are provided alt t-e front 01 the unit.
+
+0 51 (yellow) mOl'lilors the +/ _ 32 volts supply vol la ge and serves e s a &quot;p ow er 0&lt;'1&quot; In di cal g.r.
+
+DSJ (green) is known a s the &quot;Normal &quot; indicalOr. I I will Ill u min ate whenave r th.. nomin.1 program oulpu t level reaches ·e Vu under progr.m conclil ions.
+
+Under s lead y _s tale lon a co nd ll lOtls OSJ will not Il lu mln ala unli l the OUlpu t re.ches a level o f 4 to 5 d B above...8 dBm.
+
+053 Is ope... led b y one half of comparator UIOI via the coll.,;lor of 0 103. The Inputs oft he comp.ralor consists of a fi&quot;ed reference vol l age applied 10 pin 5 and.. de voltage derived fr'O'll tM. v _ged.. ud los lgn.. 1 via CRIM, CR105, Rl1 S, R 114 and C to 2, I• •ppl led top In 6.
+
+052 f e-ed) Is a n &quot;Ov.....l_ d &quot; Indl c.. tor, which will op.... ate when Ihe. v..... ~ progr.m o u lp ul I&quot;&quot;al reaches..18 Vu.
+
+Under steady -s l ale tone cond i llons 052 will not illuminate u nl ll Ihe
+
+ou lpu t reaches.. level of &quot;22 10 &quot; 23 dBm.
+
+**WA~ D -I!IECI&lt; BYII TEMB LTD,**
+
+~&quot;6Je &quot;'UD 1C DISTR I&quot;uno&quot;l &quot;M P,--I F1 Ei'l
+
+DS2 I,. dr l &quot;... b y Ih e &quot; e&lt;:on d half &quot;f c omp &quot;,.&quot;to&lt;&quot; UI OI. &quot;g&quot; in, • fixed ere e oc e &quot; Oil age i sap plied 10 pin 3, while pin 2 Is supplied w ll h ape aK-ce lec ted audios i g n a l &quot; oil age &lt;.le,.i &quot;ed fl&quot;'Olll CR102, e;::;'I::':&gt;,;; i i.i a no C; O;.
+
+0 10 1 &quot;nd 0102 fo..m a p..eci s ion Cu....-enl source, '~ lng &quot; o ll &quot; g e di &quot; ide.. Rl07/Rl0e, Which in Iu,.n pro&quot; ldes Ihe Iwo compa,.alor- &quot;e ' e..en c e &quot;o l lag e s.
+
+The U'lI·ee LED I...d;calor circuit,. a,.e packaged sepa..a lel)' on a p&quot;;n led c l rcu l ~ ca..d Iy pe 8_ 1 17.
+
+1 15 &quot;olts, 60 Hz power i&quot; applied (0 Ihe unit &quot; Ia rear module conne&lt;:lor P I &quot; 1 p in&quot; 7 and 16. I I Is connected t o Ihe pc....e r Irans fonne.. T20 1 Ih l&quot;OUg h fu &quot;.. F 20 1.
+
+Br idg&quot; re&lt;:l lfI.,r CRS....1(1'&gt; filler componenls RSS, R66 and C28 Ih rough C31 ulab li &quot;h nomin,,1 supply &quot;01Ill 9&quot;&quot; o f +1-32 and +1-18 &quot;o ilS as..equ;&quot;ed.
+
+Tes l poin l TPI end Ju mp., r eonneclor J1 are p ro&quot; ide d 10 me asu.... the p o s i lJ &quot; e sup ply current during initial factory t esl. The d e curren I &quot; 1 Ih l &quot; poi n l Is &quot; om l na l l y 50 mAw i t h 115 volts ee In p u l &quot; n d u&quot; d e r quiescent condi lions.
+
+**INSTALLATION**
+
+MM8/ -M€ 08 A AU() IC D iST&quot; ~!!UTION AMPL IF !£P.
+
+.~ 1.;, i&quot; s ~: &quot; '''-, I'o!;f: &lt;, ~'';;:I..,; S,,;.~&lt;!,,::; i.-,: ~: ~~ mounting f~ame, which maybe ins l&quot;,l led ina stan d&quot;' r d E IA 19 inch equip men t r &quot;'c k. The MF6 f~&quot;,me willa c co mmod a te&quot;, maximum o f 5 M60e series of amplifiers oran y comblnallon o f single or mulHp le width modules note xce &quot; ding Ie&quot;.. ing le width modules.
+
+:f l ~,e mo &quot;&quot;H i n!.j ' n, meh a s 0 &quot;'''';&gt;rocu &quot; e o w il no UI &quot; e c&quot;,,, taci,,,,,. n...... must be inSl &lt;'ll led in thea p P rQ p r i ate module p osi lions. Each M60e type amplifier ~ e quires two lype MFR6 r e c e p t iel e s.
+
+Note: Re&lt;:e ptacl&quot; PI, (w h ic h contains thea cline voltage input) i s r;:;v;;;: ted. This provides mec hnical polar iz a t ion oft h eco n n e cto r s ne&lt;:e ssary to prevent ina d v e r lent insertion of other comp&quot;,nion modules which do not operate from the &quot;'c line.
+
+Where v ert lc &quot;, 1 ~ a c k space p e~mits &quot;,n d the ultimate In noise &quot;' nd cross talk performance Is desired, it Is ~ecommended lh&lt;'lt only modules of the s&quot;, met y pe be allocated toe &quot; chIn dlv ldu&quot;,1 mountl f&quot;lg frame. Alternative l y, i l Is possible to mix module.. o f different types bye xe rc is inge Xlr e me care to sep ar&quot;le cables carrying different levels and functions. Place all a cpo we red unltll to the r l g hl o f lh e frame, e s viewed from l h e front. rest au i s u l&quot; l l n g rubber sleeves Over &quot; II ec ect e eee terminal connections.
+
+Fore x tern a l wiring conneC l lon sin cl u ding recommended shielding and grou&quot;d wiring le c h n lq u e s refer to Rear Conn~lor Layout d ~a wing B 606~04-00 1 &quot;nd System Wiring Schema l ic 6 60 8_ 0 2_ 003.
+
+to ob t alf&quot;l OPll mum results, use insulated, shielded, twisted pairs for both If&quot;lp u t &quot; n d output wiring. Cables c p er&quot;,t ing with level differ e n c e sex cee ding 25 d B should b e laced separately and d ~e s se d apa ~t from each other. Keep power wiring away from low level clrcu l ls. Ground cables hie l d sat one e rrd only. Ground loops mUll l be avoided.
+
+I t Is gene r &quot;,lly re&lt;:on-onended as good eng l n ee ~ l n g practice that a one rack unit space b e provided between full f~ames of distribution
+
+amplifier s for optimum venli i&lt;'ltlon.
+
+M60ll AuDIO OISTR I:! UTt ON Mi,PL IF 1£R
+
+,J;;:iC ~. ': 'l' l v~ W&quot;G ?....;;; NU MS E'&quot;
+
+F201 Fu •• 0.175.A S.8. Bu. s MOL 17!l/1000 R2'J I !='''IIt:''lli ome l ~ ~'(C t&quot;l'&quot;'Os: '!It ~1! S 10&quot;&quot;:::36;&gt;1&amp;;&gt;2 16Pl nCoro n ec.10I&quot; Amp her-.o l 2!&gt;-IS! -15 PJ 22 Pin Coronec.tOl&quot; Ed&quot;c;;);)7...022-501_102 TW' T,..n. fo.....el&quot; Hammond WBS 60-15 n 02 was 80-25
+
+&quot;&quot;. WBS 70-9 was 70-9
+
+C' Ca pa ~;tOl&quot; 22..uF /35 V TJ90 E 226M035AS
+
+C' 4.7 p F Philips
+
+3.9 pF 33 u F/l0 V K_, 222 2-638-09396
+
+**TJ900 3J6 M01QAS**
+
+C' 4.7 pF 2222-638 -094 78 C' 33 u F/I O V:::; s TJ9003J6MO lQAS coo 47pF P l&quot;lllip s 2222-638 _704 79 en 100 p F 2222-636 _7Ql 01 en e.a es 222 2-638-09826 C&lt;J 4.7pF 2222_638 -Q9478 WIS pF 222 2-636 _1015 9 m 47 p F 2222 -6 38-704 79 coo 15 u F/35 V K_, T390E I56 M035AS Cl7 22p F Philips 2222-638 -58 229 C&lt;8 0.0 22 uF esetce CQ92-MC_223M cre 33 u F/l0 V Kern.l TJ9003J6MOI OAS
+
+l 00 p F Philips 2222-6 38_70 10 1
+
+C2&lt; e.a es 2222-638 -09826
+
+C22 4.7 pF 22 22_638_ 094 76 C2J 15 p F
+
+222 2-638 -10159 cae &quot;I S,F 2222-6 38 _7068 9
+
+cas uF / 35 V TJ 90E 156M035AS
+
+&quot;'608 AUDIO D I Sr ~ l aUTl O,.........Pd F li.:t
+
+O=:';':::l, PTI QN,.. ~ U ~....,:l T &quot;'u'&quot;'o;:;; C26 CllQlI.cit.... 22 pF Philips 22 22 -638-~8 2 29 C 27 0.022 uF ks e lc;o CQ!!2· MC-223M C: 8 470 uF ! 40V Philip,&quot; &quot;.!7ETG-lo7Q
+
+C29 410 uF!40 V Ph ~F i P S 437e:r G410 C'&quot; 22 u F!2~ V 426e:TF22
+
+CJ2 uF/ l0 V I(eme l TJ90 D336M010AS
+
+**C,. &quot;' 00,F**
+
+l OOpF Pn i tiplI 2222_638_70 101
+
+CRS e.-ld g e Reetifle.
+
+01 T.-lI.nll ill lo.- Natior&gt;lIl 2N3569
+
+' Texas
+
+**PN3S69**
+
+Q' Texas TIP 29B Q' TlP30B
+
+Q' 2N3569 Q' 2N40J7
+
+**PN3569**
+
+TlP29B Q&quot; Tl PJOB
+
+R Re. l s~ 1/ 4W sS '&quot; Ph~F1 ps
+
+**R'R' &quot;K**
+
+T l&quot;'lmpo t 'OK P iner PT Ian 12.05) 20K
+
+R&quot; Re.i. t.... 1/4W 51 &quot;K Philips
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

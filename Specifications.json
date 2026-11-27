@@ -1,0 +1,58 @@
+{
+ "module": "M608",
+ "title": "M608 AUDIO DISTRIBUTION AMPLIFIER (600 Ohm Operation)",
+ "source": {
+  "file": "MANUALS/19xx - M608 - DOC - US Sales Brochure pg 25.jpg",
+  "page": 1
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "3.4 \" wide X 3.4\" high X 13.7\" deep (83 mm X 83 mm X 336 mm).",
+   "quantities": [
+    {
+     "value": 3.4,
+     "unit": "\""
+    },
+    {
+     "value": 3.4,
+     "unit": "\""
+    },
+    {
+     "value": 13.7,
+     "unit": "\""
+    },
+    {
+     "value": 83,
+     "unit": "mm"
+    },
+    {
+     "value": 83,
+     "unit": "mm"
+    },
+    {
+     "value": 336,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "6.5 pounds (3 kg) net.",
+   "quantities": [
+    {
+     "value": 6.5,
+     "unit": "pounds"
+    },
+    {
+     "value": 3,
+     "unit": "kg"
+    }
+   ]
+  }
+ ]
+}
