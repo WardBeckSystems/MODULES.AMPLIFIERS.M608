@@ -196,6 +196,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `19xx - 608-04-001 (2).jpg`, `19xx - 608-04-001.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M608.stl`](MECHANICAL/M608.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M608)
+
+- **Size:** 83 × 83 mm panel, 336 mm deep, 3.2 mm plate (TECHNICAL DATA: 3.4 " wide X 3.4" high X 13.7" deep (83 mm X 83 mm X 336 mm).)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M608 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M608.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
