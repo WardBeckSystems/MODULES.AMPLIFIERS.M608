@@ -1,0 +1,371 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.jpg",
+  "module": "M608",
+  "applies_to": [
+    "M608",
+    "M608A"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "608-04-001",
+    "title": null,
+    "date": "1980-10",
+    "issue": "2",
+    "drawn": "P. Mahoney"
+  },
+  "connectors": [
+    {
+      "kind": "16-pin plug, 2 rows",
+      "contacts": 16,
+      "rows": "1-8 opposite 9-16",
+      "view": "rear",
+      "part": null,
+      "name": "P1"
+    },
+    {
+      "kind": "16-pin plug, 2 rows",
+      "contacts": 16,
+      "rows": "1-8 opposite 9-16",
+      "view": "rear",
+      "part": null,
+      "name": "P2"
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "OUTPUT 4",
+      "signal": "OUTPUT 4",
+      "kind": "out",
+      "port": "OUTPUT 4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "OUTPUT 3",
+      "signal": "OUTPUT 3",
+      "kind": "out",
+      "port": "OUTPUT 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "OUTPUT 2",
+      "signal": "OUTPUT 2",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "OUTPUT 1",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "115VAC 60 Hz",
+      "signal": "115 VAC",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "OUTPUT 4",
+      "signal": "OUTPUT 4",
+      "kind": "out",
+      "port": "OUTPUT 4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "OUTPUT 3",
+      "signal": "OUTPUT 3",
+      "kind": "out",
+      "port": "OUTPUT 3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "OUTPUT 2",
+      "signal": "OUTPUT 2",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "OUTPUT 1",
+      "signal": "OUTPUT 1",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "(dashed arrow in) MODULE COMMON MAY BE USED TO CONNECT OUTPUT CABLE SHIELDS",
+      "signal": "MODULE COMMON (OUTPUT SHIELDS)",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "115VAC 60 Hz",
+      "signal": "115 VAC",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "MODULE COMMON TO SYSTEMS GROUND (arrow out)",
+      "signal": "MODULE COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "OUTPUT 5",
+      "signal": "OUTPUT 5",
+      "kind": "out",
+      "port": "OUTPUT 5",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "OUTPUT 6",
+      "signal": "OUTPUT 6",
+      "kind": "out",
+      "port": "OUTPUT 6",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "OUTPUT 7",
+      "signal": "OUTPUT 7",
+      "kind": "out",
+      "port": "OUTPUT 7",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "OUTPUT 8",
+      "signal": "OUTPUT 8",
+      "kind": "out",
+      "port": "OUTPUT 8",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "INPUT SHIELD CONNECTION",
+      "signal": "INPUT SHIELD",
+      "kind": "shield",
+      "port": "INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P2",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "INPUT",
+      "signal": "INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "CHASSIS (to chassis ground symbol)",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "OUTPUT 5",
+      "signal": "OUTPUT 5",
+      "kind": "out",
+      "port": "OUTPUT 5",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "OUTPUT 6",
+      "signal": "OUTPUT 6",
+      "kind": "out",
+      "port": "OUTPUT 6",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "OUTPUT 7",
+      "signal": "OUTPUT 7",
+      "kind": "out",
+      "port": "OUTPUT 7",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "OUTPUT 8",
+      "signal": "OUTPUT 8",
+      "kind": "out",
+      "port": "OUTPUT 8",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "(dashed arrow in) CT M608",
+      "signal": "CT (M608 ONLY)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "INPUT",
+      "signal": "INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "OUTPUT 1",
+      "dir": "out",
+      "pins": {
+        "a": "P1-5",
+        "b": "P1-13"
+      }
+    },
+    {
+      "name": "OUTPUT 2",
+      "dir": "out",
+      "pins": {
+        "a": "P1-4",
+        "b": "P1-12"
+      }
+    },
+    {
+      "name": "OUTPUT 3",
+      "dir": "out",
+      "pins": {
+        "a": "P1-3",
+        "b": "P1-11"
+      }
+    },
+    {
+      "name": "OUTPUT 4",
+      "dir": "out",
+      "pins": {
+        "a": "P1-2",
+        "b": "P1-10"
+      }
+    },
+    {
+      "name": "OUTPUT 5",
+      "dir": "out",
+      "pins": {
+        "a": "P2-3",
+        "b": "P2-11"
+      }
+    },
+    {
+      "name": "OUTPUT 6",
+      "dir": "out",
+      "pins": {
+        "a": "P2-4",
+        "b": "P2-12"
+      }
+    },
+    {
+      "name": "OUTPUT 7",
+      "dir": "out",
+      "pins": {
+        "a": "P2-5",
+        "b": "P2-13"
+      }
+    },
+    {
+      "name": "OUTPUT 8",
+      "dir": "out",
+      "pins": {
+        "a": "P2-6",
+        "b": "P2-14"
+      }
+    },
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "a": "P2-16",
+        "b": "P2-8",
+        "shield": "P2-7"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "title block cut at right: title and drawing number not on this picture (DRN P. Mahoney, ENG MRW 7/80, ISS 2 visible)",
+    "'CT M608' meaning (centre tap, M608 only?) not explained; dashed line into P2-15",
+    "P1-15 dashed line from the 'module common ... output cable shields' note: read as module common, direction of the arrow suggests an external connection to it"
+  ],
+  "confidence": "high",
+  "notes": "Each output/input is a shielded pair drawn with arrows; no +/- marks, so pairs are a/b in drawing order. Output cable shields are not wired to pins individually; the note says module common may be used for them. Blank contacts: P1-1,6,8,9,14; P2-2,10. Drawer name in the file name says 'D. Mahoney'; the block reads P. Mahoney."
+}

@@ -3,428 +3,526 @@
  "connector": "RTO-144",
  "type": null,
  "series": null,
- "contacts": "9 contacts (J1), 9 contacts (J2), 22 contacts (P1), 22 contacts (P2)",
- "verified": null,
- "derived": true,
- "variant_of": null,
- "pins": [
+ "connectors": [
   {
-   "pin": "1",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
+   "kind": "16-pin plug, 2 rows",
+   "contacts": 16,
+   "rows": "1-8 opposite 9-16",
+   "view": "rear",
+   "part": null,
+   "name": "P1"
   },
   {
-   "pin": "1",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - WBSps.ca - 20210317 11X 17 Scans (12).png",
-   "page": 1
-  },
-  {
-   "pin": "2",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "2",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "2",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-003 - STATION TECHNICAL GROUND INSULATED GROUND BAR.jpg",
-   "page": 1
-  },
-  {
-   "pin": "3",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "3",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "3",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - OVLD NORM.jpg",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/19xx - 608-02-001 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney.jpg",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - WBSps.ca - 20210317 11X 17 Scans (12).png",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "6",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - WBSps.ca - 20210317 11X 17 Scans (12).png",
-   "page": 1
-  },
-  {
-   "pin": "6",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "NC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-003 - STATION TECHNICAL GROUND INSULATED GROUND BAR.jpg",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "SHIELD",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - WBSps.ca - 20210317 11X 17 Scans (12).png",
-   "page": 1
-  },
-  {
-   "pin": "8",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "8",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "8",
-   "signal": "INPUT 5",
-   "kind": "in",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - 608-02-003 - TECHNICAL GROUND INSULATED GROUND BAR.png",
-   "page": 1
-  },
-  {
-   "pin": "9",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "9",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "9",
-   "signal": "CHASSIS",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - WBSps.ca - 20210317 11X 17 Scans (12).png",
-   "page": 1
-  },
-  {
-   "pin": "11",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/19xx - 608-02-001 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney.jpg",
-   "page": 1
-  },
-  {
-   "pin": "11",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/19xx - 608-02-002 - M608A AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ENG MRW.png",
-   "page": 1
-  },
-  {
-   "pin": "13",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "13",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - WBSps.ca - 20210317 11X 17 Scans (12).png",
-   "page": 1
-  },
-  {
-   "pin": "14",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-   "page": 1
-  },
-  {
-   "pin": "16",
-   "signal": "NC",
-   "kind": "nc",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-003 - STATION TECHNICAL GROUND INSULATED GROUND BAR.jpg",
-   "page": 1
-  },
-  {
-   "pin": "16",
-   "signal": "INPUT 5",
-   "kind": "in",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - 608-02-003 - TECHNICAL GROUND INSULATED GROUND BAR.png",
-   "page": 1
-  },
-  {
-   "pin": "Z",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - 608-02-003 - TECHNICAL GROUND INSULATED GROUND BAR.png",
-   "page": 1
-  },
-  {
-   "pin": "Z",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - 608-02-003 - TECHNICAL GROUND INSULATED GROUND BAR.png",
-   "page": 1
+   "kind": "16-pin plug, 2 rows",
+   "contacts": 16,
+   "rows": "1-8 opposite 9-16",
+   "view": "rear",
+   "part": null,
+   "name": "P2"
   }
  ],
+ "verified": null,
+ "built_from": {
+  "pictures": [
+   "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+   "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+  ],
+  "sheet": null,
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "P1-2",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 4",
+   "kind": "out",
+   "port": "OUTPUT 4",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "P1-3",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 3",
+   "kind": "out",
+   "port": "OUTPUT 3",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "ref": "P1-4",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 2",
+   "kind": "out",
+   "port": "OUTPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "P1-5",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 1",
+   "kind": "out",
+   "port": "OUTPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "P1-7",
+   "also": null,
+   "same_row": null,
+   "signal": "115 VAC",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "P1-10",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 4",
+   "kind": "out",
+   "port": "OUTPUT 4",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "P1-11",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 3",
+   "kind": "out",
+   "port": "OUTPUT 3",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "P1-12",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 2",
+   "kind": "out",
+   "port": "OUTPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "P1-13",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 1",
+   "kind": "out",
+   "port": "OUTPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "P1-15",
+   "also": null,
+   "same_row": null,
+   "signal": "MODULE COMMON (OUTPUT SHIELDS)",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "P1-16",
+   "also": null,
+   "same_row": null,
+   "signal": "115 VAC",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "1",
+   "ref": "P2-1",
+   "also": null,
+   "same_row": null,
+   "signal": "MODULE COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "ref": "P2-3",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 5",
+   "kind": "out",
+   "port": "OUTPUT 5",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "4",
+   "ref": "P2-4",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 6",
+   "kind": "out",
+   "port": "OUTPUT 6",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "5",
+   "ref": "P2-5",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 7",
+   "kind": "out",
+   "port": "OUTPUT 7",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "ref": "P2-6",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 8",
+   "kind": "out",
+   "port": "OUTPUT 8",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "7",
+   "ref": "P2-7",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "INPUT",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "8",
+   "ref": "P2-8",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT",
+   "kind": "in",
+   "port": "INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "9",
+   "ref": "P2-9",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "11",
+   "ref": "P2-11",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 5",
+   "kind": "out",
+   "port": "OUTPUT 5",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "12",
+   "ref": "P2-12",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 6",
+   "kind": "out",
+   "port": "OUTPUT 6",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "13",
+   "ref": "P2-13",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 7",
+   "kind": "out",
+   "port": "OUTPUT 7",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "14",
+   "ref": "P2-14",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 8",
+   "kind": "out",
+   "port": "OUTPUT 8",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "15",
+   "ref": "P2-15",
+   "also": null,
+   "same_row": null,
+   "signal": "CT (M608 ONLY)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "16",
+   "ref": "P2-16",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT",
+   "kind": "in",
+   "port": "INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M608/PINOUTS/1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.pinout.json",
+    "M608/PINOUTS/1980 - 608-04-001 - AUDIO DISTRIBUTION AMPLIFIER REAR CONNECTOR LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "OUTPUT 1",
+   "dir": "out",
+   "pins": {
+    "a": "P1-5",
+    "b": "P1-13"
+   }
+  },
+  {
+   "name": "OUTPUT 2",
+   "dir": "out",
+   "pins": {
+    "a": "P1-4",
+    "b": "P1-12"
+   }
+  },
+  {
+   "name": "OUTPUT 3",
+   "dir": "out",
+   "pins": {
+    "a": "P1-3",
+    "b": "P1-11"
+   }
+  },
+  {
+   "name": "OUTPUT 4",
+   "dir": "out",
+   "pins": {
+    "a": "P1-2",
+    "b": "P1-10"
+   }
+  },
+  {
+   "name": "OUTPUT 5",
+   "dir": "out",
+   "pins": {
+    "a": "P2-3",
+    "b": "P2-11"
+   }
+  },
+  {
+   "name": "OUTPUT 6",
+   "dir": "out",
+   "pins": {
+    "a": "P2-4",
+    "b": "P2-12"
+   }
+  },
+  {
+   "name": "OUTPUT 7",
+   "dir": "out",
+   "pins": {
+    "a": "P2-5",
+    "b": "P2-13"
+   }
+  },
+  {
+   "name": "OUTPUT 8",
+   "dir": "out",
+   "pins": {
+    "a": "P2-6",
+    "b": "P2-14"
+   }
+  },
+  {
+   "name": "INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P2-16",
+    "b": "P2-8",
+    "shield": "P2-7"
+   }
+  }
+ ],
+ "inserts": [],
  "straps": [],
- "power": [],
- "sources": [
-  "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - 608-02-003 - TECHNICAL GROUND INSULATED GROUND BAR.png",
-  "DOCUMENTS/RECENT SCANS/WBSps.ca 20210317 - Small 11X17 drawings/19xx - DOC - WBSps.ca - 20210317 11X 17 Scans (12).png",
-  "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg",
-  "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-001 - OVLD NORM.jpg",
-  "Modules/AMPLIFIERS/M608/SCHEMATICS/1975 - M608 - 608-02-003 - STATION TECHNICAL GROUND INSULATED GROUND BAR.jpg",
-  "Modules/AMPLIFIERS/M608/SCHEMATICS/19xx - 608-02-001 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney.jpg",
-  "Modules/AMPLIFIERS/M608/SCHEMATICS/19xx - 608-02-002 - M608A AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ENG MRW.png"
- ]
+ "conflicts": [],
+ "to_check": []
 }

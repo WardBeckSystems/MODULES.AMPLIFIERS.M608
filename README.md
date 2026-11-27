@@ -219,47 +219,35 @@ Not on Google Drive yet: `1980 - 608-04-001 - (cut off; connector wiring diagram
 
 ## RTO-144 pinout
 
-9 contacts (J1), 9 contacts (J2), 22 contacts (P1), 22 contacts (P2). Read from the module's own documents (no RTO-144 sheet yet). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 2 pinout pictures (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 |  | unread |  | low |
-| 1 | COMMON | ground |  | low |
-| 2 |  | unread |  | low |
-| 2 |  | unread |  | low |
-| 2 |  | unread |  | low |
-| 3 |  | unread |  | low |
-| 3 |  | unread |  | low |
-| 3 |  | unread |  | low |
-| 4 |  | unread |  | low |
-| 4 |  | unread |  | low |
-| 4 |  | unread |  | low |
-| 5 |  | unread |  | low |
-| 5 |  | unread |  | low |
-| 5 |  | unread |  | low |
-| 5 |  | unread |  | low |
-| 6 |  | unread |  | low |
-| 6 |  | unread |  | low |
-| 7 |  | unread |  | low |
-| 7 | NC | nc |  | low |
-| 7 | SHIELD | ground |  | low |
-| 8 |  | unread |  | low |
-| 8 |  | unread |  | low |
-| 8 | INPUT 5 | in |  | low |
-| 9 |  | unread |  | low |
-| 9 |  | unread |  | low |
-| 9 | CHASSIS | ground |  | low |
-| 11 |  | unread |  | low |
-| 11 |  | unread |  | low |
-| 12 |  | unread |  | low |
-| 12 |  | unread |  | low |
-| 13 |  | unread |  | low |
-| 13 |  | unread |  | low |
-| 14 |  | unread |  | low |
-| 16 | NC | nc |  | low |
-| 16 | INPUT 5 | in |  | low |
-| Z |  | unread |  | low |
-| Z |  | unread |  | low |
+| P1-2 | OUTPUT 4 | out | OUTPUT 4 | high |
+| P1-3 | OUTPUT 3 | out | OUTPUT 3 | high |
+| P1-4 | OUTPUT 2 | out | OUTPUT 2 | high |
+| P1-5 | OUTPUT 1 | out | OUTPUT 1 | high |
+| P1-7 | 115 VAC | power |  | high |
+| P1-10 | OUTPUT 4 | out | OUTPUT 4 | high |
+| P1-11 | OUTPUT 3 | out | OUTPUT 3 | high |
+| P1-12 | OUTPUT 2 | out | OUTPUT 2 | high |
+| P1-13 | OUTPUT 1 | out | OUTPUT 1 | high |
+| P1-15 | MODULE COMMON (OUTPUT SHIELDS) | ground |  | high |
+| P1-16 | 115 VAC | power |  | high |
+| P2-1 | MODULE COMMON | ground |  | high |
+| P2-3 | OUTPUT 5 | out | OUTPUT 5 | high |
+| P2-4 | OUTPUT 6 | out | OUTPUT 6 | high |
+| P2-5 | OUTPUT 7 | out | OUTPUT 7 | high |
+| P2-6 | OUTPUT 8 | out | OUTPUT 8 | high |
+| P2-7 | INPUT SHIELD | shield | INPUT shield | high |
+| P2-8 | INPUT | in | INPUT | high |
+| P2-9 | CHASSIS | ground |  | high |
+| P2-11 | OUTPUT 5 | out | OUTPUT 5 | high |
+| P2-12 | OUTPUT 6 | out | OUTPUT 6 | high |
+| P2-13 | OUTPUT 7 | out | OUTPUT 7 | high |
+| P2-14 | OUTPUT 8 | out | OUTPUT 8 | high |
+| P2-15 | CT (M608 ONLY) | other |  | high |
+| P2-16 | INPUT | in | INPUT | high |
 
 ## Manuals and documents
 
