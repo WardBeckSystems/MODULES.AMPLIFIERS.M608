@@ -1,5 +1,5 @@
 # 19xx - 608-02-002 - M608A AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney - ENG MRW.png
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** unknown (title block (read by eye))

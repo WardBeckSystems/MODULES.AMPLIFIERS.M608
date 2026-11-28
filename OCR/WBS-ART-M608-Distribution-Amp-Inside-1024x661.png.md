@@ -1,5 +1,5 @@
 # WBS-ART-M608-Distribution-Amp-Inside-1024x661.jpg
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** unknown (title block (read by eye))

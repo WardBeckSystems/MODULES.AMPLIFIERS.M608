@@ -1,5 +1,5 @@
 # 1975 - M608 - Audio DA.pdf
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** 1975 (found in this file: "Sep-75")

@@ -1,5 +1,5 @@
 # 19xx - 608-02-001 - AUDIO DISTRIBUTION AMPLIFIER SCHEMATIC - DRN P. Mahoney.jpg
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** unknown (title block (read by eye))

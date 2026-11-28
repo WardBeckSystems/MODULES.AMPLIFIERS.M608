@@ -1,5 +1,5 @@
 # WBS-ART-M608-Inside-300x193.png
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** unknown (title block (read by eye))

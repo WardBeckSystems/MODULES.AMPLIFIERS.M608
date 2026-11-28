@@ -1,5 +1,5 @@
 # 1975 - M608 - 608-02-003 - STATION TECHNICAL GROUND INSULATED GROUND BAR.jpg
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** 1975 (module estimate (month))

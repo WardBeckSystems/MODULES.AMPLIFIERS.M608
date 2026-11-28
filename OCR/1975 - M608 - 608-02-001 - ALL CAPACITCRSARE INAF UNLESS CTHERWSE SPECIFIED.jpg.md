@@ -1,5 +1,5 @@
 # 1975 - M608 - 608-02-001 - ALL CAPACITCRSARE INAF UNLESS CTHERWSE SPECIFIED.jpg
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** 1975 (module estimate (month))

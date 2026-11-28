@@ -1,5 +1,5 @@
 # 19xx - 608-06-001 - M608A AUDIO DISTRIBUTION AMPLIFIER COMPONENT LAYOUT - DRN P. Mahoney - ENG MRW - ISS 2.png
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** unknown (title block (read by eye))

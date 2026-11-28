@@ -1,5 +1,5 @@
 # 1980 - 608-02-003 - M608A AUDIO DISTRIBUTION AMPLIFIER SYSTEM WIRING SCHEMATIC - DRN P. MAHONEY - ENG MRW - ISS 1.png
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** 1980 (title block date)

@@ -1,5 +1,5 @@
 # 1980 - 608-04-001 - (cut off; connector wiring diagram, P1 P2, 'CT M608' note) - DRN D. Mahoney - ENG MRW - ISS 2.jpg
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** 1980 (title block date)

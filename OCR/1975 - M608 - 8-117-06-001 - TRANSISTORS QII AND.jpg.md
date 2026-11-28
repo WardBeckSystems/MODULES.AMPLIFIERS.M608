@@ -1,5 +1,5 @@
 # 1975 - M608 - 8-117-06-001 - TRANSISTORS QII AND.jpg
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** 1975 (module estimate (month))

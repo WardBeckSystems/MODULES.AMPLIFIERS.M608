@@ -1,5 +1,5 @@
 # 1975 - M608 - 608-06-001 - AUDIO DISTRIBUTION AMPLIFIER COMPONENT LAYOUT.jpg
-Wiki page: [M608](../../../../PAGES/M608.md)
+Wiki page: [M608](../)
 
 
 - **Year:** 1975 (module estimate (month))
